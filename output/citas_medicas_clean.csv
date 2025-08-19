@@ -1,0 +1,1313 @@
+id_cita,id_paciente,fecha_cita,especialidad,medico,costo,estado_cita
+0810c43c-fe5a-4461-90af-34f6daf8f7b7,1,2022-02-14,Pediatría,Dr. Andrés Murcia,100.0,Completada
+b22ff34b-7976-4610-a64a-aac85511c4e4,4,2025-04-12,Ginecología,,220.0,Completada
+48c37b6f-3b8d-4a0f-83bb-9ca029480376,6,2022-11-26,Ginecología,,200.0,Reprogramada
+ad98f0a9-5bb6-4931-aa99-6958f95fb225,9,2025-12-16,Pediatría,Dr. Andrés Murcia,220.0,Completada
+408ec9be-d14d-4289-b710-01c6f10a22b0,11,2025-03-29,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+d1305cdc-2a75-4edf-af38-4edfe7ed6eb5,13,2023-06-28,Ortopedia,Dr. Juan Valdez,,
+73feba1e-eeb6-49e5-a224-6c0f39dfa609,19,2025-07-12,Neurología,,,Reprogramada
+92e2cf06-05f3-4573-9a8a-afb62fe170cc,28,2024-10-21,Neurología,Dr. Juan Valdez,200.0,Reprogramada
+97f65e7b-b447-49b0-b117-3f1f48221cba,33,2025-02-13,Ortopedia,Dr. Juan Valdez,,
+7a4207d5-a79d-407d-8044-021a8eb45e44,42,2025-07-08,Ginecología,,200.0,Cancelada
+a3e08354-4f13-415d-890c-35d7509cfc2b,42,2024-04-01,Neurología,,120.0,Reprogramada
+0bdb0007-56ed-44c1-bf11-d047c714304b,43,2025-02-10,Ginecología,,220.0,Reprogramada
+49e1ceb3-fd08-4bf2-8793-ab00aeb98d6c,48,2025-06-04,Ortopedia,Dra. Lina Torres,100.0,Cancelada
+9ca946ca-8093-4c34-961b-26c8b49b5acd,48,2022-06-10,Neurología,Dr. Camilo Rojas,200.0,
+686416bc-5c9d-441f-9fb3-a3512010ea39,52,2025-01-27,Ginecología,Dra. Lina Torres,200.0,
+27c34648-b8da-415e-bb6a-2e4b1f8a3769,55,2025-04-05,Cardiología,Dr. Juan Valdez,200.0,Reprogramada
+eb6a90ee-1e9a-424c-9915-8333c82dd308,58,2024-08-04,Cardiología,Dra. Lina Torres,200.0,
+da083dab-668a-4a5a-967b-d5f7c9b257ad,59,2025-06-22,Pediatría,Dr. Andrés Murcia,100.0,Reprogramada
+c69ac85f-97af-4be7-a6dc-99f3277c37b2,67,2025-07-23,Pediatría,Dr. Andrés Murcia,220.0,
+1464fdab-0930-49fc-823a-fe488a3d14c8,67,2025-11-21,,,200.0,Completada
+c1529fd8-5c85-4308-81ef-6b420ff03275,76,2022-02-13,Ginecología,,220.0,Completada
+5d66d27f-8fd5-44f9-8b19-0035dda36475,78,2025-11-22,Ginecología,Dr. Juan Valdez,180.0,Completada
+7cd0c13f-35fa-42b2-8c29-d8c5cb09cde0,83,2023-02-08,Cardiología,Dr. Andrés Murcia,200.0,Completada
+86723415-4e0a-43f5-ad43-67af78dbd0a3,90,2023-07-12,Ginecología,Dra. Lina Torres,220.0,Reprogramada
+75eba1fe-9751-4b09-ad02-170d41147e2c,94,2022-10-22,Ginecología,Dr. Juan Valdez,100.0,
+12219c2c-3f28-43f0-8768-a09da78a837b,98,2022-07-31,Neurología,Dra. Lina Torres,100.0,Reprogramada
+acd7267e-1ada-4306-9a46-1e6eb6ac993e,101,2022-10-05,Ginecología,,,
+5636a5e6-99df-4bcc-b1c1-564e93b6735f,101,2024-05-12,,,120.0,Cancelada
+b3ec613b-e4e1-4f4b-9367-05f9d8ab649c,101,2025-08-17,Cardiología,Dr. Camilo Rojas,200.0,Completada
+87c24436-b9bd-4634-834d-db0c2040143d,106,2024-01-14,Ginecología,Dra. Lina Torres,200.0,Completada
+847ab88f-8ce6-4fde-8c01-0bfbf16c7d5d,108,2024-07-02,Ginecología,Dr. Camilo Rojas,120.0,Reprogramada
+193b2862-1323-40e3-a2d1-eda452932faa,108,2024-11-17,,,,
+6d62370e-2827-4eed-858f-9a7eec95cdc4,113,2025-08-12,Ginecología,,220.0,Completada
+6bf311b0-8a3f-4645-8fa7-e4465dd54fab,130,2022-04-17,Neurología,,120.0,Reprogramada
+bad7011a-3dde-46bd-b931-8e9e1925b0ad,134,2022-06-26,,Dra. Lina Torres,120.0,Reprogramada
+25b011de-9040-4427-85e6-aa1b63ffbe43,140,2023-10-16,Neurología,Dr. Camilo Rojas,100.0,Reprogramada
+62824897-e32c-45f0-ab95-0c1aafca108e,141,2022-02-05,Pediatría,,100.0,
+959cbef5-608d-4ac2-8d48-d8d2e2f98e71,150,2024-12-16,Ginecología,Dra. Lina Torres,100.0,
+ebec5f6f-a43b-4d2c-a620-ecf7a6b7bacb,153,2023-06-10,,Dr. Juan Valdez,100.0,Reprogramada
+18e27634-b513-4482-9588-5fde4e175967,157,2025-08-31,Cardiología,Dra. Lina Torres,,
+06a09818-ffff-466a-b272-6240335e92b7,158,2025-03-28,Neurología,Dr. Camilo Rojas,200.0,Cancelada
+e6d3fa21-4829-4c2f-a137-23cc066541d1,158,2022-07-26,Pediatría,,220.0,Cancelada
+919e8809-6799-449d-8dce-0cbdf5f5545e,159,2022-11-21,Neurología,Dr. Camilo Rojas,200.0,Reprogramada
+a7d08c72-130e-4ed6-ac09-cfe2f0925564,169,2022-11-28,,Dr. Andrés Murcia,180.0,Cancelada
+199d4ef3-fb00-4799-af96-9da31cc535d3,179,2025-10-28,Ortopedia,Dr. Andrés Murcia,120.0,Cancelada
+ed3f0c8d-218f-4dcb-8063-2ff2ee79c530,180,2023-09-07,Ginecología,Dra. Lina Torres,180.0,Reprogramada
+dfd01b52-73e0-44f3-84fa-1dde098b345c,191,2022-11-29,Pediatría,,120.0,Completada
+c4e9786f-8120-4274-88be-34ba4e7e3ac7,194,2023-11-09,Pediatría,Dr. Juan Valdez,,Reprogramada
+32903a11-4ff7-425e-8e6f-8fadfa8ded9d,196,2025-01-02,Neurología,Dr. Juan Valdez,180.0,
+4968d321-5e91-46ea-94fb-2f218797942e,199,2025-03-09,Cardiología,Dr. Andrés Murcia,220.0,Reprogramada
+de8dbecd-b323-46e0-bf37-8cd9d8938913,199,2025-11-22,Pediatría,Dr. Camilo Rojas,180.0,Cancelada
+008af8a1-ca60-482d-b244-0e93462d08b2,200,2023-12-23,Cardiología,,180.0,Cancelada
+036b9248-4147-4db2-9d0c-8631594c81c9,202,2025-11-06,Ginecología,Dra. Lina Torres,,Completada
+4c228d65-afa9-4b71-a98c-0328627f1e3a,207,2025-06-20,Ortopedia,,,Cancelada
+62395ffb-26a4-4926-9130-54d32a6a7365,207,2022-07-26,,Dr. Andrés Murcia,120.0,
+8586df4f-9b4e-4da4-9059-ba589dcd3419,209,2025-05-05,Ortopedia,,200.0,Reprogramada
+bc5d4fc3-10aa-4cb6-9878-bfc724713002,210,2025-05-16,,Dr. Camilo Rojas,120.0,Reprogramada
+cd8d751f-768c-43ae-a150-b60144784916,210,2023-12-11,Neurología,Dr. Andrés Murcia,180.0,Cancelada
+2e81be64-e271-4f05-a145-455378cd53ad,229,2022-06-14,Pediatría,Dr. Juan Valdez,220.0,
+328a9ae6-e7f2-467b-a232-7c624dd8e6b6,235,2022-11-27,,Dr. Juan Valdez,200.0,Reprogramada
+a6ccf75b-be6f-4ede-ae2b-ce03c3f8c2c0,235,2022-12-17,Ginecología,Dr. Andrés Murcia,120.0,
+d8ff7387-a52e-4898-96e7-941da6727269,236,2025-07-08,Neurología,,200.0,Reprogramada
+b5e80769-ce26-4f7b-a5b8-f7b206d6115b,239,2025-09-09,Pediatría,Dra. Lina Torres,100.0,
+262d5dea-fcef-4946-bd17-5109f7fc4fa2,248,2024-01-20,,Dr. Camilo Rojas,,Cancelada
+03301f57-c99a-412a-b81c-e4d5bae4dffb,252,2023-11-18,Ortopedia,Dr. Camilo Rojas,100.0,Cancelada
+f482d594-2821-4dfa-aa9f-7fe019cbc29c,255,2023-05-30,Neurología,,,Cancelada
+91b9036b-7cc8-4ac6-bdb4-275686d0ae75,256,2023-08-17,Cardiología,,,
+f45b4d1b-afe1-4d49-8771-4f9bd6eb0a1f,256,2023-09-01,Ortopedia,Dr. Juan Valdez,100.0,Completada
+d5255dc2-e70f-4595-bffa-99694c841b6a,259,2025-08-21,Pediatría,Dr. Andrés Murcia,100.0,Cancelada
+fa0eaeeb-1a08-486a-8dae-d700823abcea,265,2022-09-09,Cardiología,Dr. Andrés Murcia,220.0,Reprogramada
+3c4fc6cf-6da5-4bfa-95a8-0f995e258231,274,2023-10-25,Cardiología,Dra. Lina Torres,,Cancelada
+94f462b0-3eef-40b5-a52c-9aa7a119d7cc,276,2025-09-18,Ortopedia,Dra. Lina Torres,,Completada
+56348b41-0372-421f-8ea4-8cbc482afc1a,284,2024-10-16,Ginecología,,220.0,Cancelada
+f86679ed-c4c6-421d-9a4c-2015788b58e1,285,2023-10-07,,Dr. Andrés Murcia,180.0,Reprogramada
+f3c84e5a-ab3d-43db-8704-c575c23aeea8,288,2024-11-14,Ginecología,Dr. Camilo Rojas,220.0,Cancelada
+e9f8e253-1d63-4f56-8f25-177aa1fa04c9,288,2025-12-28,Ortopedia,Dra. Lina Torres,200.0,Cancelada
+fcd05e18-0f20-498c-842d-72afe17633fd,288,2025-06-23,Pediatría,Dr. Juan Valdez,180.0,Completada
+ccb92bdd-2a07-4bd4-a28a-b63c30dae1fa,292,2023-05-27,,Dra. Lina Torres,220.0,Completada
+52a4b52b-f77e-4410-b630-912357abd3fa,293,2024-12-14,Ginecología,Dra. Lina Torres,,Reprogramada
+15efb4ac-2f66-46d3-967a-94e498364656,297,2023-06-27,Pediatría,,180.0,Cancelada
+9c5842f3-6715-457a-b9d9-6f77c6910e85,297,2022-09-19,Ortopedia,,220.0,Cancelada
+cab52657-334b-450c-80be-0b65dcd14275,298,2022-03-10,Ginecología,,220.0,
+4e6383a5-f1af-4d51-8a58-6bb3d0d69be5,298,2025-12-10,Neurología,Dr. Andrés Murcia,180.0,Completada
+ae991542-b5b5-4d27-975a-e37f8cf1cf77,299,2023-04-13,Ortopedia,Dr. Juan Valdez,,
+8fcd4766-c7d0-415b-841c-18a90a85cdcf,316,2024-07-04,Neurología,Dra. Lina Torres,180.0,Reprogramada
+89dd9d22-801c-4572-ad9c-83af7b29103d,316,2025-07-20,Pediatría,Dr. Camilo Rojas,200.0,
+99ba0bc9-5691-4ccd-a89a-7d852ee72ac5,324,2024-12-22,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+a622685a-6733-433d-ade6-921adbeb7423,335,2025-11-21,,Dr. Andrés Murcia,100.0,Reprogramada
+00bb5907-9f1b-47dd-b9e5-2b340f3bb8ba,335,2023-07-29,Cardiología,Dra. Lina Torres,200.0,Reprogramada
+ac04fbf7-f860-4de5-ae96-b970ea22a4a4,343,2022-01-28,Pediatría,Dr. Andrés Murcia,220.0,Completada
+6371726c-194a-40f2-b812-438fa9cb34b7,343,2023-10-20,Cardiología,Dra. Lina Torres,,
+248ee60b-b937-447f-8672-6710a6414f52,348,2025-11-25,Ginecología,Dr. Camilo Rojas,100.0,Completada
+ac3dcc63-369c-498e-81ed-0546a7f3244c,348,2022-02-05,Cardiología,Dr. Andrés Murcia,100.0,Reprogramada
+0f4b33c1-9a2d-4982-b6fa-fda3c8b2136c,348,2022-07-31,Neurología,Dr. Andrés Murcia,180.0,
+c93860bd-4ac0-4f6f-aa9d-1143e3207f23,351,2024-11-03,Ginecología,,120.0,Completada
+4aaf9acc-21bf-4b6f-8310-eb6d3ecce8d3,352,2025-08-05,Ginecología,Dr. Andrés Murcia,220.0,
+eba3bf3f-2bc2-49ec-b868-92d8e8114611,355,2023-12-01,Pediatría,,200.0,
+48ddf1a1-1134-4509-ba7c-c56c46d697a7,374,2025-06-22,Ortopedia,Dr. Camilo Rojas,200.0,
+46d3a7fb-b358-42b5-932d-60a187dfa184,378,2025-12-08,Ortopedia,Dra. Lina Torres,120.0,Reprogramada
+c842997f-e6dc-4e8f-a0e9-f44a8936715f,380,2022-05-22,,,200.0,Completada
+1fcde12f-aab5-49e8-b7df-9cff8750a05f,381,2023-05-30,Ortopedia,Dra. Lina Torres,100.0,Reprogramada
+60bcd268-ecc8-4633-91f4-b9924e4a7223,390,2023-05-15,Pediatría,,180.0,Completada
+cfd2d501-35a8-484d-b2ad-05db8bb39cf3,398,2022-05-28,,Dr. Juan Valdez,200.0,Reprogramada
+be8329d6-a922-4f6e-8e3d-a63fdff30a51,400,2022-08-04,,Dra. Lina Torres,,
+c43e09e5-28f8-4393-ad8f-fd770a645ba3,401,2024-01-18,Pediatría,Dra. Lina Torres,120.0,
+bd6c28dc-9336-4a36-9079-20e46013b780,402,2023-04-22,Ginecología,Dr. Andrés Murcia,200.0,Reprogramada
+21aecc2b-df32-4485-bb58-81bb1eb1d598,403,2023-02-14,,Dr. Andrés Murcia,180.0,
+dab6a73d-02fd-430c-9b05-4f5f460fb14c,403,2022-01-29,Cardiología,,180.0,Cancelada
+2543a1df-17a6-4431-acc0-9b36b02be1c7,418,2023-07-21,Pediatría,,180.0,
+e32590cc-e4cc-4249-9b71-c3e265b35c36,422,2023-11-26,Neurología,Dr. Juan Valdez,120.0,Completada
+ade19daa-0302-4560-a1c7-c947b867ce23,423,2025-01-16,Pediatría,Dr. Juan Valdez,180.0,Completada
+342d0066-f891-4e0a-b41d-2b2b1df0eed4,431,2022-12-20,Cardiología,Dra. Lina Torres,120.0,
+b32a058c-3374-470a-9b98-943a2656a91b,432,2022-02-15,Neurología,,100.0,Completada
+0638be5d-702a-4104-b65d-d01c0234d6d1,433,2023-10-01,Ortopedia,Dr. Camilo Rojas,220.0,Cancelada
+aa2c6942-4c97-4201-8d51-d757a50d6129,436,2025-03-14,Cardiología,Dr. Andrés Murcia,100.0,Reprogramada
+5489bf8f-6f99-4bf7-a8fb-82d3ea02963a,436,2024-05-07,,Dra. Lina Torres,200.0,Cancelada
+a226f7c4-41cf-478a-aead-c58d09e16dac,443,2023-08-25,Ortopedia,Dra. Lina Torres,200.0,Reprogramada
+5e784d6b-7022-4d52-b81f-a06cc5381b0b,447,2023-02-11,Cardiología,Dr. Juan Valdez,200.0,Completada
+b35f1818-fe70-4bdf-9865-e01081e105ba,451,2022-01-24,Ortopedia,,100.0,Cancelada
+5595cc8f-a695-4fa8-a235-17f4fdb45519,452,2025-01-16,Ortopedia,,200.0,Cancelada
+8429e592-75cd-4c94-8d0e-ebc06b060d87,461,2022-05-04,,,220.0,Reprogramada
+1e5a21db-b445-45d4-bee7-2421542d3888,465,2024-06-24,Neurología,Dr. Camilo Rojas,120.0,
+23ba6801-a883-4683-b89e-109c933ebabe,466,2025-04-09,,Dr. Camilo Rojas,200.0,Reprogramada
+865dab4b-6233-4b19-8792-462a1aa962f6,476,2025-08-22,Ortopedia,Dra. Lina Torres,180.0,Completada
+4937d163-aa9e-4d6a-83f6-1a3a192e55b9,481,2025-10-11,Ginecología,Dr. Andrés Murcia,220.0,Completada
+ce0992f1-8450-49de-b938-58f4f4108ff5,493,2022-07-31,,,100.0,Reprogramada
+4b38ecb6-b0b8-4e6c-b1de-37502567efb3,493,2022-04-16,Pediatría,,,Cancelada
+f1c3eff3-fd8e-49fe-a4aa-ec51a78d9dfc,497,2022-04-11,,Dra. Lina Torres,120.0,Reprogramada
+003055e6-3815-4159-a15f-a538b8634d29,497,2025-08-21,,Dr. Juan Valdez,100.0,Completada
+ad3a154a-d2fe-40c4-8f5d-872ebe41fab2,498,2025-10-21,Ginecología,Dr. Andrés Murcia,100.0,
+cd9b3ebb-20f7-4378-8471-dc7f9269f639,499,2022-05-29,Cardiología,Dra. Lina Torres,120.0,Cancelada
+536b6ef8-c56d-49b3-9e30-2f0206d9b565,500,2024-03-24,Ortopedia,Dr. Camilo Rojas,120.0,
+2b7a55c8-fa78-4773-8fa9-b5408219f9b5,504,2025-11-07,Neurología,Dr. Juan Valdez,220.0,Completada
+e400970a-3ac7-4aa9-8916-8aebb35048dd,508,2023-12-11,Ortopedia,,180.0,
+000f2b27-2ac9-4e69-9057-89ced0834437,520,2025-06-18,Pediatría,Dr. Juan Valdez,120.0,Reprogramada
+fe9e33c5-7604-4420-8316-d502f557d585,524,2023-02-13,Ortopedia,,100.0,Completada
+bac1b344-c6bb-42d5-b354-b30b692f026d,524,2024-12-19,Ortopedia,Dra. Lina Torres,100.0,Completada
+e92f760f-1aaf-4a16-a444-53c30211ec3d,531,2023-02-06,Ortopedia,,220.0,
+c8d813a5-e716-4ff0-8334-6fa313c7c710,531,2023-02-15,Cardiología,Dr. Camilo Rojas,120.0,
+215dd433-21c6-4fbf-a858-96c5546365c1,536,2025-09-30,Pediatría,Dr. Andrés Murcia,220.0,Reprogramada
+77c77d60-52bb-42b9-a5af-61e9c4347169,537,2023-06-25,Ortopedia,Dr. Camilo Rojas,180.0,
+00e1ef7a-ca47-472f-890e-54922badca8d,541,2022-02-10,Neurología,Dra. Lina Torres,200.0,Reprogramada
+640349e9-b6ba-4158-884d-95463d1141e0,541,2024-04-22,Cardiología,Dr. Juan Valdez,180.0,Completada
+8d7df05e-3567-4f37-8687-6433e652f7a6,544,2023-04-17,Ortopedia,,120.0,Completada
+6a857f56-385a-4713-83e1-2f1242f92485,548,2022-11-06,Cardiología,Dr. Camilo Rojas,200.0,Reprogramada
+5ea7e7f2-a223-47d4-bf6d-fefafca25ec9,550,2025-11-11,Cardiología,Dr. Camilo Rojas,100.0,Completada
+ebb68d48-feee-4c36-b608-ddd6d70dbcf6,554,2025-12-15,Ginecología,,200.0,Completada
+6cefc44e-6106-41e7-a88d-8dfb5cbbc1cc,554,2024-08-28,,,,
+82f20ad7-9857-4680-b41d-5c2ee228dfcb,555,2024-04-23,,,200.0,Cancelada
+4f47457d-f0f2-459a-bfcf-b2e737b263d6,568,2023-11-22,Ginecología,Dr. Andrés Murcia,100.0,Completada
+f0271f47-7312-43f9-b5dc-7d6d524c85cb,569,2022-03-08,Pediatría,,100.0,Cancelada
+84ae008a-f138-4d1f-b5c4-b6d4e3eb404b,570,2024-02-27,Cardiología,,220.0,Reprogramada
+f6a84795-90f4-429e-93e5-164ff3f23aa1,570,2025-07-09,Cardiología,Dra. Lina Torres,100.0,Completada
+1828741a-e89a-48da-af7e-1994555ac51c,576,2025-12-17,Ginecología,Dr. Camilo Rojas,100.0,Reprogramada
+1c6a23a6-bdc1-46b9-b15a-e1b5969e0529,576,2023-01-20,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+706642c4-ec4f-4317-9c7e-f47d7f9d14ff,579,2022-08-13,Neurología,Dr. Camilo Rojas,180.0,Completada
+54ecb849-d2d8-4975-9906-2c33b7a228af,592,2024-08-29,Cardiología,Dr. Juan Valdez,,Cancelada
+a14bfe01-14ba-4956-90a3-3e2a423bbb0f,594,2025-03-02,Ortopedia,Dr. Andrés Murcia,100.0,Completada
+ed4ad4de-6d70-4cb9-80d7-6bd443d991a8,601,2022-07-09,Neurología,Dr. Andrés Murcia,,Completada
+7399a8f9-156b-40fd-9773-7de2a6164299,610,2023-10-13,Neurología,Dr. Camilo Rojas,180.0,Completada
+ce4dbc87-589b-42a4-9e8f-d9eeddd31a56,610,2022-03-14,Cardiología,Dr. Camilo Rojas,100.0,
+4c6c6118-ba89-4e7f-9112-912413623da1,611,2024-11-13,Pediatría,Dr. Camilo Rojas,220.0,Completada
+61701946-6057-45a7-9c9b-a19c20293581,612,2025-03-30,Ginecología,Dra. Lina Torres,220.0,Completada
+41ab1986-a902-48e0-b91e-bfc5c4ac544e,619,2024-05-30,Ginecología,Dr. Andrés Murcia,120.0,Reprogramada
+7ad517d6-e437-4fab-9cf9-6c65ad988610,620,2025-10-15,Cardiología,Dr. Camilo Rojas,100.0,Cancelada
+08f1d704-4622-4091-a668-abffd47699e3,621,2022-10-13,Pediatría,Dr. Andrés Murcia,100.0,
+369f5101-8f95-40c1-a108-0ab26ef60b1e,621,2022-11-15,Ortopedia,Dra. Lina Torres,180.0,Reprogramada
+22980fa6-65eb-4ecd-af9d-a3f33e606643,623,2022-07-26,,,200.0,Reprogramada
+a3a3ca8c-d6aa-479b-84a9-5e2fa066b70c,624,2025-09-09,,Dra. Lina Torres,220.0,Completada
+5f3d29ff-faa5-4413-9d39-0643957808db,624,2023-02-01,Neurología,Dr. Andrés Murcia,180.0,Cancelada
+390957a5-0d45-4299-a83c-e511cb029186,628,2022-06-20,Neurología,Dra. Lina Torres,120.0,Cancelada
+2f6cddff-1dd0-44ab-b27f-ea27c31512eb,630,2025-03-09,Ginecología,Dr. Juan Valdez,,Reprogramada
+c4a10126-9e70-403f-bdc4-a931802929ea,632,2022-08-14,Cardiología,Dra. Lina Torres,220.0,Reprogramada
+410f5c45-370b-472b-83ba-1dcdf509615f,633,2023-09-28,,Dr. Juan Valdez,220.0,Reprogramada
+4e069358-bec7-4b94-a07c-0fc3867dfba6,634,2024-06-16,Ortopedia,,220.0,Cancelada
+0fb49080-07cd-489f-9bf7-a39c5692fc41,637,2022-01-30,Pediatría,Dra. Lina Torres,220.0,Cancelada
+9688d1d1-1dfe-41a4-8d64-afb6b9158e14,640,2025-04-21,Cardiología,Dra. Lina Torres,,Reprogramada
+9112a8e5-f522-4226-84b3-815428f15dab,642,2022-07-01,Cardiología,,220.0,
+ded2e0fe-d2e3-4b98-b45d-382de9a4a730,648,2023-08-09,Pediatría,Dr. Andrés Murcia,100.0,Completada
+3fbd1961-3c02-47cd-9efd-f582ac9b4f75,655,2022-05-09,,Dra. Lina Torres,220.0,Reprogramada
+6cbb344f-eefc-4bec-993b-5fcc8bf7b0b6,661,2024-07-10,Neurología,Dra. Lina Torres,200.0,Cancelada
+7c598d04-190b-4f52-9a37-825c181857f3,669,2024-05-21,Ortopedia,Dr. Juan Valdez,180.0,Cancelada
+8a906052-2d27-4afa-a48a-83b75239b40d,677,2023-02-25,Ginecología,,,Reprogramada
+bce7bed7-2ed8-4461-afd0-5685d8214bcd,677,2025-09-25,Cardiología,Dr. Andrés Murcia,220.0,Completada
+dfee3bd9-0175-4b9c-8b46-e7637d84b1dd,693,2025-09-19,,,200.0,Reprogramada
+9bd8fcd1-892f-4f94-b83a-2a2f1415ea92,693,2025-06-15,Cardiología,Dr. Juan Valdez,180.0,Completada
+cb31b350-b8e9-486a-aa37-5c693919869d,693,2022-03-02,Ginecología,Dr. Juan Valdez,220.0,Cancelada
+8256b1e2-f5ca-4f83-a312-11c07920fb15,695,2023-07-14,Neurología,Dr. Juan Valdez,,Completada
+b6a14cbd-01ff-415e-9978-b73ddf9f3fc3,697,2024-03-16,Neurología,Dr. Camilo Rojas,180.0,Cancelada
+2b17ac61-1a26-4f01-8402-ff56214caf99,700,2025-01-23,Neurología,,220.0,Cancelada
+511fb654-2f3d-439f-a2ff-0329e66975aa,700,2025-08-31,,Dr. Andrés Murcia,100.0,Cancelada
+c68549a0-b6c8-4829-96b0-150cf3af07f4,716,2024-05-24,Ortopedia,,200.0,Cancelada
+2af068cf-0dac-4569-b2e8-300403c6885f,716,2023-01-21,Ginecología,Dr. Camilo Rojas,120.0,Cancelada
+1d3edb77-a481-4573-911f-c670c96e33ba,720,2025-12-26,Cardiología,,100.0,
+3c9d1d5f-2145-4c7b-b3d9-6763d8e6d07d,723,2024-06-30,Ginecología,Dr. Camilo Rojas,120.0,Reprogramada
+9de2553d-a862-4409-bdfc-457a86cdf769,726,2022-06-28,Neurología,Dra. Lina Torres,180.0,Completada
+561d7674-06d4-4a4d-8abe-29d2a1233825,733,2025-07-03,Neurología,,,
+2dd556cf-b6be-4f86-bea3-f39d6d96e56c,734,2024-04-04,Ortopedia,Dr. Juan Valdez,200.0,Completada
+e57517e7-38dc-4072-b86b-37e30e7d1ae4,737,2023-07-18,,Dra. Lina Torres,100.0,Reprogramada
+d25dad5e-ec80-4c7b-a8fc-48a78b929e4c,745,2022-12-22,Neurología,Dra. Lina Torres,120.0,Reprogramada
+510254ac-8578-4652-a333-f8511e4390cc,747,2023-05-18,Pediatría,,220.0,Completada
+3c1676f2-4b21-4941-baca-f6be4cd33ed7,752,2022-04-08,Ortopedia,Dr. Camilo Rojas,200.0,
+05f18f9c-672a-4da6-8e98-519b13c4155f,755,2025-01-10,Ginecología,Dra. Lina Torres,180.0,Reprogramada
+db435e3d-389f-4e23-b585-78c56c7a1019,761,2025-10-07,Pediatría,Dr. Camilo Rojas,220.0,Completada
+ae575cff-0850-4fa7-97d0-1ab243ad9153,762,2023-08-22,,,100.0,Cancelada
+1206bfed-311f-4b11-ab7b-d2cc438707ee,764,2022-06-11,Ortopedia,Dr. Andrés Murcia,200.0,Completada
+a482a210-294f-46c2-b280-e394734af1d4,765,2023-08-21,,Dra. Lina Torres,120.0,Completada
+22dcce56-f927-4680-9581-c113c2326114,768,2022-06-13,,Dr. Juan Valdez,180.0,Reprogramada
+6e04918d-5795-484b-a542-166c004c144d,768,2024-03-29,Ginecología,,220.0,
+dba3fafb-cc48-4b75-ac9d-33afc78a7a47,770,2023-06-01,Cardiología,,,Cancelada
+2ac3e0f9-5160-4aae-ba8f-32191d6c845d,778,2025-10-20,Ortopedia,Dra. Lina Torres,120.0,
+fef9ddb4-6b34-4f1e-8fad-ddca48930029,780,2025-03-19,Ginecología,Dr. Juan Valdez,200.0,Reprogramada
+96e9741a-acec-408c-abd2-a4109a09de66,781,2023-10-07,,Dr. Juan Valdez,100.0,Cancelada
+f114dfc2-a9a4-4da5-9589-99318d1dadfd,782,2023-11-24,Ginecología,,180.0,Completada
+05abf50e-6758-4619-8ee1-3436a48234f4,782,2024-02-08,Pediatría,Dr. Camilo Rojas,120.0,Completada
+8975751b-308b-4570-9c37-f90afc38d89a,785,2023-06-02,Neurología,,220.0,Cancelada
+ef0445e7-ed96-4c66-887e-9fdd7d3af386,798,2025-09-23,Ortopedia,,180.0,
+eaf04693-5297-4fd3-919c-4928f8c131e3,798,2025-02-01,Pediatría,,220.0,Cancelada
+fd01f0ca-0658-4b4d-bb48-57764102b302,803,2024-06-02,Ortopedia,,200.0,Completada
+0f210c52-bfd3-4215-ade9-c2ceb53f7ac8,804,2024-12-30,Cardiología,Dr. Andrés Murcia,100.0,Reprogramada
+909398dd-db3e-46cd-a286-f9dc113651ce,807,2024-01-16,,,220.0,Cancelada
+a3c7dcbd-7511-42be-ba75-c171faa90887,808,2024-08-27,Cardiología,Dra. Lina Torres,180.0,
+f5814ec0-1b57-4ab0-8454-0f3498964f9d,813,2022-11-28,Pediatría,Dr. Andrés Murcia,120.0,
+064eaaec-198d-4dfb-85c4-325b0f978799,818,2022-03-23,Cardiología,Dr. Camilo Rojas,180.0,Completada
+bab7fe83-6b64-466d-9447-dfae24bae63d,832,2023-07-12,,Dr. Andrés Murcia,,Reprogramada
+948413f1-73fe-4dd2-871b-006302acd9d0,832,2025-01-09,,Dra. Lina Torres,220.0,Cancelada
+74ec0f7b-4f95-4862-8b7b-8558cfb9ffb3,833,2022-02-26,Pediatría,Dr. Camilo Rojas,,
+b16c2d00-4564-4802-8a16-a9f0a9f800b0,840,2024-11-11,Ortopedia,Dr. Andrés Murcia,220.0,Completada
+6c083822-2920-4b1b-95ab-f829e28f6c1e,843,2025-10-07,Neurología,Dr. Andrés Murcia,180.0,
+ea432df3-270e-4410-a51c-10eb9495ed69,850,2024-12-22,,,120.0,Reprogramada
+e095ec7f-a483-455f-9a8d-8db49b15aa24,851,2023-09-16,Ginecología,Dr. Juan Valdez,180.0,Cancelada
+eb9ac70f-5229-4c9f-94aa-73569779f9d2,851,2025-03-11,,Dra. Lina Torres,180.0,Completada
+66948a06-52fe-4b3d-9cd5-cef8133672dd,853,2023-09-29,Ginecología,Dr. Andrés Murcia,100.0,Reprogramada
+f6627c84-3608-4b8c-802c-fff87d39b90b,854,2022-05-02,Pediatría,Dra. Lina Torres,100.0,Reprogramada
+44e40aef-fbad-488b-a62c-3ccd8688d160,858,2022-12-09,Neurología,Dra. Lina Torres,180.0,Completada
+8ee34e48-1f93-421c-8f48-c8386c675b3b,871,2022-12-30,Cardiología,Dr. Andrés Murcia,220.0,Cancelada
+8aa67979-cdb4-40c4-bf20-4e6932edec35,875,2024-02-15,,,180.0,Reprogramada
+a9ae8a3f-8049-415b-9a8f-90e770fdb024,878,2023-07-09,Ginecología,Dr. Juan Valdez,200.0,Reprogramada
+18952e8b-7e2e-4bbe-87ae-504bc1e628f8,881,2023-11-23,Neurología,Dr. Juan Valdez,,Reprogramada
+eb756f11-bb7c-4cfa-9140-a54222bd7e4c,887,2023-07-03,Pediatría,Dr. Juan Valdez,200.0,
+8461bfa0-57a4-4720-8f2a-aa4eed3d0bdf,901,2024-10-31,Cardiología,Dr. Juan Valdez,180.0,Completada
+31d70768-e07b-459f-9fc8-dc7191ba1575,904,2023-10-27,Cardiología,Dr. Juan Valdez,200.0,Cancelada
+f16593eb-bd02-4304-b707-406c2fbfbb65,904,2023-03-20,Ortopedia,Dr. Andrés Murcia,200.0,Cancelada
+69d5b748-d3d9-4c37-b6de-47aacd9efbdc,908,2025-06-19,Ginecología,Dr. Camilo Rojas,180.0,
+c6959592-e825-46c5-9d4b-384bc5bb4e89,908,2023-12-24,,Dr. Camilo Rojas,200.0,Reprogramada
+f98b8a38-f8dc-42de-af63-30632ab40690,911,2022-02-01,Pediatría,Dra. Lina Torres,180.0,Reprogramada
+91bd6e96-68ae-4117-b2d8-c73626cf64df,926,2025-09-30,Neurología,Dra. Lina Torres,220.0,Completada
+d06a0fd7-ea75-4c7a-a8f9-e405d4de403a,926,2022-01-14,Ginecología,Dra. Lina Torres,200.0,Cancelada
+1d690940-628a-4ec3-bf20-447b645560c6,934,2022-02-02,Cardiología,,180.0,
+ef0897d3-16fe-4913-8e2d-9fde61cbdcfa,934,2023-07-21,,Dr. Andrés Murcia,180.0,Reprogramada
+57b598ea-cfed-4a8f-be2c-5adc7f580589,935,2022-01-25,,Dr. Juan Valdez,220.0,Completada
+21f4ff9e-8dc9-4695-9aed-1d93d4afcb8c,943,2022-12-04,Ortopedia,Dr. Juan Valdez,120.0,Cancelada
+79663cf3-9e73-4177-827a-bda3aa3ef883,955,2025-02-08,,Dr. Juan Valdez,100.0,
+cb8f534e-e947-4db6-9ba8-45141eecfd26,961,2024-06-15,Ginecología,Dr. Camilo Rojas,200.0,Completada
+6aadb4b2-cc4f-4a99-8e0b-67b3ea91ff1e,962,2024-06-03,Neurología,Dr. Camilo Rojas,120.0,
+9b70d8e3-106b-4b5b-9b7a-db9b1677285c,964,2025-10-25,Cardiología,,180.0,
+a8bbafe7-ace1-4b92-a74c-def40e9cdce6,968,2025-09-14,Ortopedia,Dra. Lina Torres,180.0,Cancelada
+5acadcdc-6844-430c-8ef8-776c2be3f2d1,974,2023-04-19,,Dr. Camilo Rojas,,Completada
+c463cb9c-fc62-4c81-ad85-ab2dc1805ecd,981,2023-07-12,Cardiología,,100.0,
+a9918eb3-59fd-4097-b76d-39f1b52f9c45,983,2024-02-09,Ginecología,Dr. Camilo Rojas,,Reprogramada
+6f85b571-64f5-4213-bbfa-862432b638a6,988,2024-06-06,Pediatría,Dr. Juan Valdez,180.0,Completada
+e86b86a9-c6a0-4b0d-a593-c57f234bc07a,988,2023-03-11,Neurología,Dra. Lina Torres,220.0,Cancelada
+00cd1e56-72c6-4f82-a2f0-697cdfee2667,993,2024-04-03,Pediatría,Dr. Camilo Rojas,,Reprogramada
+344b0579-808f-4510-9d03-5ed56b668a01,997,2023-04-10,,Dr. Andrés Murcia,,
+883df90c-b0ea-4888-9c8e-bf62099166ab,997,2025-09-05,Ortopedia,Dra. Lina Torres,120.0,Cancelada
+62d48cb0-3b4d-4809-888c-348dfdc8b60e,999,2024-01-26,,Dr. Camilo Rojas,100.0,
+776d08e1-d35e-4e0e-a8db-705e8d6e945b,1001,2023-04-18,,,120.0,Cancelada
+30bf2246-875b-463c-b0c1-7168744454df,1006,2025-08-24,Neurología,Dra. Lina Torres,180.0,
+ed1468c0-5fb0-44d0-bc79-9ed49d952c4f,1008,2023-11-12,,Dr. Camilo Rojas,200.0,Reprogramada
+c90a2219-4ede-4e88-85b2-dd67d8299cb6,1012,2024-02-09,,,120.0,
+e5670c97-ded1-4bb1-b023-d15539ba7b36,1017,2023-01-11,,Dra. Lina Torres,120.0,Reprogramada
+164c5690-2f40-4e18-977f-9b601b0824e0,1018,2023-09-01,,Dr. Camilo Rojas,,Completada
+52b12242-b949-4acb-9127-6e8a1e77a124,1021,2023-02-13,Neurología,Dr. Juan Valdez,180.0,Completada
+59103ec4-0370-4bcb-841e-372d110cda42,1021,2025-01-12,Ortopedia,Dr. Juan Valdez,,Cancelada
+08a6d955-f9c8-40b1-9e2a-40879cde0c51,1027,2022-10-04,Neurología,Dr. Camilo Rojas,120.0,Cancelada
+ffc75df4-99b0-4a78-8b38-48eba380a178,1029,2025-05-23,Neurología,Dr. Andrés Murcia,220.0,Reprogramada
+9b98975a-3404-4afb-8200-d50cb0f874e2,1029,2023-07-21,,,,
+1d7f469e-f5ac-4c49-941f-3cbce1008d69,1032,2023-04-09,Pediatría,Dr. Juan Valdez,220.0,Reprogramada
+1856142b-5f8d-4619-90af-162ccb089025,1033,2024-04-05,Ginecología,,120.0,Completada
+d464e432-f469-4962-b3c9-16040870836e,1035,2022-08-09,Cardiología,Dr. Andrés Murcia,,Cancelada
+4f69d754-55e0-4582-a69a-b19392bc3605,1035,2024-03-07,Ginecología,,200.0,Completada
+73b919ee-f60c-489b-b99b-0b7974df732b,1036,2025-01-12,,Dr. Camilo Rojas,220.0,Reprogramada
+269ff2cf-fb03-483b-9736-5637f6de37a5,1039,2023-09-06,,Dra. Lina Torres,180.0,Cancelada
+09490977-80ea-464b-907b-d28613657c97,1039,2024-09-12,Pediatría,,120.0,Cancelada
+36868c66-9015-4b68-8a57-0f4547ee125a,1047,2023-08-10,Neurología,Dr. Andrés Murcia,220.0,
+f4f559ab-6889-4c4f-a738-9d9d95bd3ff4,1050,2024-04-17,Ortopedia,Dr. Andrés Murcia,100.0,
+d614614a-1a3f-4afb-afef-6555e14cf9f1,1051,2024-03-23,Ginecología,,120.0,Reprogramada
+9984ed35-4825-4d59-ba4d-1bc622f99e5c,1052,2023-09-27,Neurología,Dr. Juan Valdez,,Completada
+6e9f1e91-c545-4828-828a-814bfef94093,1059,2023-10-29,Neurología,Dra. Lina Torres,220.0,Reprogramada
+f96dd78d-4ff4-41d8-8c1c-0710d37ef3fc,1061,2022-11-21,Ginecología,Dra. Lina Torres,120.0,Completada
+2b503f52-9d8b-4780-ae24-f436c4441573,1063,2025-09-15,Ortopedia,Dr. Camilo Rojas,220.0,Reprogramada
+d1d852e2-b6df-49bb-9288-130f2389cbf6,1063,2022-01-24,Neurología,Dr. Camilo Rojas,220.0,Cancelada
+0e12dbd6-9788-49fa-870e-783e7aacce65,1064,2025-02-02,Neurología,Dr. Camilo Rojas,200.0,Completada
+9707f210-8eae-4105-aed4-aa4202ad5435,1071,2023-03-12,Ortopedia,Dr. Camilo Rojas,100.0,
+8ac87dc1-8dd7-4804-bf14-ca3a7bbb9f93,1078,2024-12-07,Neurología,Dra. Lina Torres,220.0,Completada
+cfa938ae-1cd2-49b2-a0fc-d5ae77ede3fa,1082,2025-05-04,,Dra. Lina Torres,100.0,Cancelada
+ec263c61-7d18-4ba6-9477-b77035ea4aa4,1086,2023-09-30,Neurología,Dra. Lina Torres,120.0,
+e31898e0-2995-430a-b464-e3b329211635,1087,2025-03-12,Ginecología,,220.0,Cancelada
+ec7370d1-a1c2-418e-9ee3-3222bc6866e5,1088,2024-05-27,Pediatría,Dr. Juan Valdez,100.0,Completada
+0729bdf5-8920-4416-8215-16227a3cd361,1089,2023-01-13,,Dr. Juan Valdez,120.0,Cancelada
+47bb7546-560d-4c61-9dd4-cd8628e43dec,1098,2025-01-06,Neurología,Dr. Camilo Rojas,220.0,Cancelada
+e0545ac9-e926-4ef6-b9f6-f49abf6817a0,1099,2022-01-31,,Dra. Lina Torres,,Reprogramada
+60c12c3b-3053-4520-b509-81639daa6abb,1113,2023-12-10,Ginecología,Dra. Lina Torres,100.0,Completada
+9bd96495-5e6c-4cc4-a75e-21dd05a6dd64,1121,2024-07-19,Cardiología,Dra. Lina Torres,,Completada
+75b116fb-814d-44aa-bac6-86e37e9c47c6,1123,2022-07-24,Cardiología,Dr. Andrés Murcia,100.0,Completada
+667fb2fc-abe1-4dc5-9d92-646308da5f95,1130,2022-07-28,Ginecología,Dr. Juan Valdez,120.0,Reprogramada
+cb31e8c4-76ac-4c08-bf97-5e9e0d68df84,1134,2023-11-05,Ginecología,Dra. Lina Torres,100.0,Reprogramada
+1861b0d2-a510-443b-af17-6cc34dd12e92,1134,2022-06-30,Ortopedia,Dr. Andrés Murcia,200.0,
+14950a38-8194-4bfc-9625-1f44bd89fbc7,1151,2022-06-17,Ortopedia,Dr. Juan Valdez,200.0,
+2c89ed26-e4bf-4fa4-9ef8-7107eec533fa,1157,2023-03-19,Cardiología,Dr. Andrés Murcia,220.0,Reprogramada
+4cd50719-e81e-4253-b60e-d9a179937f85,1166,2023-12-01,Neurología,,180.0,Completada
+9a284333-ea08-49b2-b5e7-9ad6c664bcfd,1168,2024-03-25,Ortopedia,Dr. Juan Valdez,220.0,
+8e34053b-e1fb-4c19-83dc-ddfde0b0fb38,1168,2024-02-18,Pediatría,Dr. Camilo Rojas,220.0,Completada
+8ec9575b-79c0-477b-aa81-6d08c63100b9,1172,2024-03-02,,Dr. Juan Valdez,220.0,
+63f98b7e-40e2-4de6-800e-2ec6d000ab48,1183,2025-04-12,Ortopedia,Dr. Juan Valdez,,Cancelada
+3502096b-cbad-4443-adac-db1f5c93efaf,1190,2022-12-26,Ortopedia,Dr. Andrés Murcia,180.0,
+74b24bd8-005c-4cce-9f87-9e0a00a683ad,1192,2022-10-10,,Dr. Andrés Murcia,100.0,Reprogramada
+d4dd7053-2a9e-4a5a-91d4-f472ab738d78,1202,2023-12-11,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+770348b7-3397-44d2-85f4-41db3269f279,1204,2024-03-30,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+c3820535-382c-4380-bdaa-f7c59de425c1,1205,2024-06-12,Pediatría,Dra. Lina Torres,,
+2a2a4c0c-163d-4c5e-ac2a-4ad7cc4544b2,1205,2023-11-18,Neurología,Dr. Camilo Rojas,220.0,Completada
+2584355d-83bb-4d52-a2c2-b5aa78456b0b,1207,2024-10-18,Ginecología,Dr. Andrés Murcia,200.0,Completada
+9ffd2593-09d6-43c4-9a19-9a9083089556,1214,2025-09-05,Pediatría,Dr. Andrés Murcia,220.0,Completada
+d7df02c6-96c7-4fc1-9224-0ff68fc9f99f,1221,2025-04-05,,Dr. Juan Valdez,120.0,Completada
+0fb55aac-125f-45cd-9163-bbcfa5926dae,1228,2025-11-18,,Dr. Camilo Rojas,120.0,Reprogramada
+139721be-a54a-4c74-955f-73f8934dbbb6,1236,2023-12-03,Pediatría,,100.0,Cancelada
+7104ff97-0048-435a-9cb6-bd06d6b30448,1237,2023-01-09,Neurología,Dra. Lina Torres,,Cancelada
+b4be96ef-7493-4d8a-93d8-8752c3f70a14,1237,2025-07-22,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+e49bad3f-e353-4dae-b3fa-f3aad1e7b566,1247,2023-01-27,Ortopedia,Dr. Camilo Rojas,,
+48de8820-fc18-4bc0-affe-8e6c1b3dd9b3,1247,2025-03-21,Pediatría,Dr. Andrés Murcia,180.0,Completada
+dc527c8b-91b3-4d5f-acee-3f083055e5ee,1249,2025-11-08,Ginecología,Dr. Camilo Rojas,200.0,Cancelada
+cd7d970e-71cc-47aa-a089-320c42d9b60d,1253,2023-04-16,Cardiología,Dra. Lina Torres,200.0,Reprogramada
+0e1ac0b8-a5ca-4f09-bc53-886e70e20138,1255,2023-09-05,,Dr. Andrés Murcia,200.0,Reprogramada
+1fd8470f-e5d3-4c9e-8782-821f2f444719,1265,2023-08-23,Ginecología,,200.0,Reprogramada
+d466285d-78a5-48e7-9556-62e1c9198073,1268,2025-08-20,Ortopedia,Dr. Camilo Rojas,120.0,Cancelada
+8e4affc4-b008-4978-b3e1-4aa9c5b0d122,1271,2023-12-24,Cardiología,,200.0,Completada
+a04e9c99-344a-4667-926d-f777512c2f3f,1275,2025-10-15,Cardiología,Dr. Juan Valdez,200.0,Reprogramada
+36e6ab94-0dfb-409d-a5a1-b5bc63d38d06,1275,2023-07-17,Pediatría,Dr. Andrés Murcia,100.0,Reprogramada
+22324407-a51d-4274-8e60-d10b7e87c117,1278,2025-04-08,Neurología,Dr. Juan Valdez,220.0,Completada
+8da6b80c-b69c-436d-a45a-20fe0c940937,1285,2023-01-31,,Dr. Andrés Murcia,,Reprogramada
+5c7d4a41-eb50-4f0b-a6a5-12cfe50b9164,1285,2023-08-05,Cardiología,Dr. Camilo Rojas,180.0,
+b0275a16-d2aa-4efc-8471-30de80ec71f1,1286,2022-06-03,Ginecología,Dr. Camilo Rojas,,Reprogramada
+d6e07543-bdce-41ef-8ac5-b995a466bacb,1286,2024-12-18,,Dra. Lina Torres,200.0,Cancelada
+90cf81bb-2965-4ba2-a1c8-b37fc18a46d2,1304,2024-06-08,,Dra. Lina Torres,180.0,
+e616da2d-91be-43ce-b52e-df4d51fa9ae2,1306,2022-09-29,Cardiología,Dr. Juan Valdez,,
+eb618faa-3751-40dd-a3ec-8ceb4a8a6d31,1306,2023-12-26,Ortopedia,Dr. Andrés Murcia,,Completada
+e07530f0-d34c-495c-b4ec-b4894d7bd200,1315,2023-10-05,Ortopedia,Dr. Andrés Murcia,,Reprogramada
+2b018a32-f70f-4ad1-893b-e309de9077b9,1315,2022-12-26,Pediatría,Dra. Lina Torres,,Cancelada
+41573499-00e8-4338-a360-8b74ec71e2dc,1326,2025-09-20,,,220.0,Completada
+bd81ba34-4f2c-43d0-aefd-a0101c1f59db,1326,2024-12-16,,Dra. Lina Torres,,Cancelada
+e450fac1-0483-4901-8493-40be88b0476c,1328,2023-02-07,Neurología,,200.0,
+cfe3e80e-ff8a-4b73-8f82-ceba83474f8a,1331,2024-11-01,Cardiología,Dra. Lina Torres,220.0,Cancelada
+7d71b5d3-9234-4e7f-9eb0-c0c9961826b5,1341,2024-09-12,,Dr. Juan Valdez,180.0,Cancelada
+373c6032-0719-416f-8a33-812808d96ad8,1346,2022-07-01,,Dr. Camilo Rojas,100.0,Completada
+2b71280e-054f-4d0b-b15c-8ca7a3b2316c,1347,2025-02-21,Pediatría,Dr. Andrés Murcia,200.0,Reprogramada
+793b0a34-dbf0-4e91-8690-70dbae7a504c,1353,2023-02-11,Neurología,Dr. Juan Valdez,,Reprogramada
+371a5734-57d2-4c18-a903-975b6fa9d67d,1363,2022-02-22,,Dr. Camilo Rojas,180.0,Reprogramada
+b16d73b2-5062-4df8-976f-dca6ba18116a,1368,2025-01-05,Neurología,,200.0,Reprogramada
+938d7802-b1a2-48f6-8ead-38fd36eb795c,1369,2022-04-01,,Dr. Camilo Rojas,100.0,
+11eaedf4-c2ea-4720-9003-2d56b4049f51,1373,2025-01-28,Ginecología,Dr. Andrés Murcia,200.0,
+8ee21407-9079-45a8-9841-b703fd2cfb1e,1385,2024-12-26,Pediatría,Dra. Lina Torres,120.0,Completada
+ce4feaf1-bf59-421c-b895-02ee356913ac,1385,2022-11-11,Pediatría,Dr. Juan Valdez,220.0,
+8446a20b-60df-4b0e-b901-1ae1d311c976,1387,2023-04-21,Cardiología,Dra. Lina Torres,100.0,Reprogramada
+2b424103-3e21-4b1d-86e6-5c199b53006e,1387,2022-03-04,Pediatría,Dra. Lina Torres,200.0,
+0ac0c169-2919-4a5b-a8e3-8f0896515020,1388,2022-02-08,Neurología,Dr. Juan Valdez,200.0,Reprogramada
+1424cee3-4a70-44e1-b7bb-01c8435bc6d9,1388,2023-12-13,Pediatría,Dra. Lina Torres,200.0,Completada
+1f8bc848-5822-401d-bf76-4a9ee5343a15,1392,2023-12-20,Ginecología,Dr. Andrés Murcia,180.0,Completada
+a9293c11-b5dc-473b-b371-5a7810904354,1395,2022-09-03,Ginecología,Dr. Andrés Murcia,200.0,
+4a1ac7fb-ab32-4977-a4db-e52b2a0ebdb2,1395,2023-02-28,Cardiología,Dr. Andrés Murcia,220.0,Cancelada
+73270365-2eb0-4c68-a29a-daf9b587fa76,1400,2024-10-29,Ginecología,Dr. Andrés Murcia,220.0,Cancelada
+54765777-ac1f-4547-8afd-4facb9195637,1409,2023-05-25,Cardiología,,200.0,Cancelada
+bd4c7553-a2dc-4efe-b388-5d3963321851,1412,2025-11-17,,,220.0,Cancelada
+3b0ac62e-17a2-4108-ac22-5f8d830a7764,1414,2023-03-18,,,220.0,Reprogramada
+eb0f7503-dd3f-4264-98ad-cc7156cf5ae9,1427,2025-10-04,Neurología,Dra. Lina Torres,100.0,
+1cc0f9f9-fbdb-42c1-8b0c-2d1a4f1910c0,1429,2025-05-08,Neurología,Dra. Lina Torres,200.0,Reprogramada
+c78d89c9-0658-45bc-bddd-d8619472914b,1430,2022-01-31,Pediatría,Dr. Andrés Murcia,120.0,Cancelada
+24395b92-37e5-409e-bd68-ca3dbed10787,1431,2022-11-26,Neurología,Dr. Camilo Rojas,100.0,Reprogramada
+826fc8a2-2fed-4d24-8a0e-9aaff6cdaa00,1433,2023-10-18,Pediatría,,200.0,Completada
+e7f786e6-3acc-4159-8e0d-359a1d0400fa,1434,2025-07-20,Pediatría,Dr. Andrés Murcia,100.0,Cancelada
+9f0e7096-1519-4528-8fd0-a4b489c5c10c,1434,2024-02-12,Pediatría,Dra. Lina Torres,200.0,Completada
+3253cd8a-4077-4837-9fda-d0733e49a558,1434,2022-11-26,Ginecología,Dr. Andrés Murcia,180.0,Reprogramada
+2fb78819-df7b-4635-92c3-fc119b6113d5,1437,2024-09-04,,Dr. Camilo Rojas,120.0,
+31be2546-3252-4840-891d-bb4d10e0fc08,1438,2022-07-14,Ginecología,Dr. Juan Valdez,220.0,Reprogramada
+3354cda7-73d2-40e2-ba90-7ab045c39609,1440,2024-05-19,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+2654265f-3cc6-42d5-9776-1ec4be8f67b1,1448,2025-02-23,Ortopedia,Dr. Andrés Murcia,220.0,Cancelada
+3cc85c13-73cc-42e2-a121-7fe101ccfc5d,1449,2025-12-20,Cardiología,Dr. Camilo Rojas,100.0,Cancelada
+69484541-19b9-4c9f-bbdf-f2ef855d2dfd,1449,2025-10-28,,Dr. Camilo Rojas,120.0,Reprogramada
+c596378c-5ffb-4aa2-9509-a539b9d96ca3,1451,2024-12-13,Pediatría,Dr. Juan Valdez,200.0,Cancelada
+4730c666-19ad-406d-b67e-cef7d7fc7a42,1452,2025-07-09,Cardiología,Dr. Juan Valdez,100.0,Cancelada
+5e69b995-9ed7-422d-836c-f4242baabd81,1453,2023-08-28,,Dr. Juan Valdez,100.0,Reprogramada
+1c19dbb4-d17f-4f27-9a67-a8863ecfcf95,1465,2024-08-11,Neurología,Dr. Andrés Murcia,180.0,
+049c2758-014d-452a-a230-ee9a8ce8c4dd,1473,2025-01-05,Pediatría,Dr. Camilo Rojas,180.0,Completada
+9fa3ed8f-7a5b-438f-be1c-65bee5d32c8f,1493,2025-09-26,Pediatría,Dr. Camilo Rojas,220.0,Reprogramada
+b6654628-a88e-4ea5-8ec9-8861afbee765,1494,2025-09-24,,,180.0,Cancelada
+7242bb84-6302-4511-8d7f-e681137c5711,1494,2022-03-20,Neurología,,,Cancelada
+04bd2461-1561-47ef-8994-4bf00dcd8823,1497,2023-11-17,Neurología,Dr. Camilo Rojas,220.0,Cancelada
+f0828527-6e2a-4286-9055-a3f300f6e27f,1500,2022-08-12,Neurología,Dr. Andrés Murcia,220.0,Reprogramada
+7477dede-fddd-42a3-b6cf-da1f9eac0ccd,1506,2025-08-16,Ginecología,Dr. Camilo Rojas,200.0,Reprogramada
+72c2bdb6-3f51-4e76-b68d-f8f177ac31c6,1512,2023-02-24,Neurología,Dr. Camilo Rojas,220.0,Reprogramada
+e3d86402-363c-43a1-bc5e-f0da6743a591,1512,2022-06-12,Cardiología,,100.0,Reprogramada
+78d5e725-8f9c-45c7-abe3-e2a3cdd2c2b5,1516,2022-12-05,,,120.0,Reprogramada
+7cbb8a42-c2b7-4dc0-9bcb-b25980f6e26c,1516,2023-09-09,Neurología,Dr. Camilo Rojas,100.0,
+3699b421-1782-4259-9115-20770c62abee,1519,2025-01-03,Ortopedia,Dr. Camilo Rojas,,Cancelada
+bdd88b2e-95bd-494d-9d94-495e1b6b3c5c,1521,2025-09-07,Pediatría,Dr. Andrés Murcia,100.0,Completada
+2a0b6310-c9ee-49a3-a82f-d919043321f7,1528,2025-06-09,Ginecología,Dr. Camilo Rojas,220.0,Completada
+64822503-f1b6-486e-8ffc-9161f822d8f6,1535,2022-08-12,,Dra. Lina Torres,,
+8ce96616-7941-4f78-a738-128bf9813410,1545,2023-05-05,Cardiología,Dra. Lina Torres,200.0,Cancelada
+89243128-4514-425b-b14f-f89914e0922e,1547,2022-10-09,Cardiología,Dr. Camilo Rojas,100.0,Reprogramada
+1c2742f2-0bc7-4e0c-855a-fea91e1144b4,1555,2023-01-14,,,220.0,Cancelada
+8e1b8497-756c-4fc6-9e5c-b9abb7aa223d,1586,2022-02-03,Neurología,Dr. Juan Valdez,200.0,Cancelada
+2f55b9ca-ee45-4671-8bab-020c533b7f53,1586,2025-05-03,Neurología,,200.0,Reprogramada
+407b3c53-585f-42d2-b35a-633b99f52ff9,1591,2022-12-19,Cardiología,Dr. Juan Valdez,200.0,Completada
+5925e231-bf19-42f1-ab17-b8785a894e96,1591,2024-06-15,Cardiología,Dr. Camilo Rojas,100.0,Reprogramada
+6d38de7b-e533-4c1f-8809-c523dda5b69e,1592,2023-11-06,Cardiología,Dra. Lina Torres,220.0,Completada
+b783832d-aed8-469a-84dd-73eb15d84acb,1592,2025-08-30,Pediatría,Dr. Juan Valdez,220.0,Reprogramada
+cb0e1350-dffd-4027-baef-5186f311936c,1608,2024-09-30,Ginecología,Dr. Juan Valdez,,
+08a0f127-ffba-44fa-b3b9-9cbdf2a80365,1609,2024-10-15,Cardiología,Dr. Andrés Murcia,180.0,Completada
+48df9480-8318-48b2-93a2-33c7ed80b646,1610,2023-07-16,Neurología,Dra. Lina Torres,,
+bb587cac-bc5b-4b4d-a99b-1abc0087edbc,1619,2022-03-02,,Dra. Lina Torres,100.0,Cancelada
+506795e6-2896-46ac-aa57-9d509ecf6d03,1629,2023-01-28,Ortopedia,Dr. Andrés Murcia,200.0,
+aa5f952c-2e3e-4617-bd0a-ede7a00c7448,1629,2025-10-17,Pediatría,,120.0,Reprogramada
+7142955d-62ec-4855-8fa5-c8c797122542,1632,2024-09-06,,Dr. Camilo Rojas,,Reprogramada
+41ce897d-bfd6-4041-98ce-0e70fd3c3ba9,1633,2022-08-29,Neurología,Dr. Andrés Murcia,,Completada
+83e29395-a5d0-475e-97ca-db742c5a2b7f,1634,2024-01-17,Neurología,Dr. Juan Valdez,220.0,Completada
+6ab998c3-f435-4383-b7da-afb8b250004d,1635,2022-06-12,Ortopedia,Dr. Andrés Murcia,180.0,Reprogramada
+4cecfb2e-d27c-4fea-bf62-cb8d4986f5ca,1641,2024-08-05,,Dr. Camilo Rojas,100.0,Cancelada
+2241872c-21a3-47d9-bc11-a1a8c9cde94c,1641,2022-07-15,Pediatría,Dr. Andrés Murcia,200.0,Reprogramada
+4b3bbc2f-7186-4e32-8506-5136b6f9d372,1643,2024-01-28,Ginecología,Dra. Lina Torres,100.0,Reprogramada
+a14fa1a6-7e41-4c87-9aac-02df14bc38d5,1645,2024-03-04,Pediatría,Dra. Lina Torres,200.0,
+dd9e6570-ac40-4636-8f9b-3f5c5ba2a1a1,1655,2022-07-27,Cardiología,Dr. Andrés Murcia,120.0,Reprogramada
+29168aec-6c8a-4941-9a22-13e7d4e17053,1656,2022-04-26,Cardiología,Dra. Lina Torres,,Cancelada
+a7f2158c-20f0-4094-9ad1-70d5739920b7,1659,2023-04-08,Ginecología,Dr. Camilo Rojas,,Cancelada
+e20dfad4-0685-46e2-84d8-eb187f6cf8e1,1659,2023-12-23,Pediatría,Dr. Andrés Murcia,120.0,
+a5bee718-ddaf-4e31-9392-53f2791d9bd6,1659,2022-10-18,,Dr. Juan Valdez,,Reprogramada
+20d09e31-707c-4f2f-b936-3218f3983f61,1660,2023-01-12,Cardiología,Dr. Juan Valdez,200.0,Completada
+c53bbd32-7683-4c92-bbc7-1ea23aebd454,1669,2022-03-09,Neurología,Dr. Juan Valdez,220.0,Reprogramada
+26b605dc-aae9-4ba7-95f1-77c9b8757bd0,1671,2022-05-20,Pediatría,,120.0,
+052e487d-f109-4d38-a71f-52b60bd05eb2,1671,2025-12-12,Pediatría,Dr. Juan Valdez,180.0,Reprogramada
+f1c1b7e3-5988-457f-8427-4216338a3718,1671,2023-07-17,Cardiología,Dr. Juan Valdez,,
+80c24246-6a26-4de4-97a4-27d23773d71c,1677,2024-09-27,Cardiología,,180.0,Completada
+fc4bdc3c-4bb0-4ddb-8ab9-1266ffcf0a1c,1686,2024-10-24,,Dr. Camilo Rojas,100.0,Completada
+e9054f53-cc79-44ea-b394-34c5d5570924,1696,2023-01-07,Cardiología,Dra. Lina Torres,220.0,
+a0ed82c4-fc43-409e-a0aa-146ea69f87da,1696,2025-07-16,Neurología,Dr. Camilo Rojas,,
+93327265-474a-4bdf-8008-aa8a0db7cacd,1698,2022-09-02,Ginecología,Dr. Andrés Murcia,120.0,Cancelada
+4ecc7f97-0904-4a59-9d0b-2d9deb11bfe2,1698,2025-02-02,Neurología,Dr. Camilo Rojas,200.0,Reprogramada
+87937910-390f-41e5-a55c-fe6e78c6909c,1699,2023-08-18,Ginecología,Dra. Lina Torres,200.0,Cancelada
+2cea41d6-d785-487c-bdcc-d044d8594e5b,1702,2024-05-13,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+27b8c98b-7841-4e76-aa94-11e1816bf1cd,1707,2022-06-22,Ginecología,Dr. Andrés Murcia,180.0,Cancelada
+c2cc41c8-21b3-46da-afe3-2daa03de095d,1708,2025-03-01,Neurología,,200.0,Cancelada
+db293511-8464-409f-8efb-d47e3c45c5a3,1709,2022-07-03,Cardiología,Dr. Juan Valdez,100.0,Reprogramada
+2c3b235b-1a94-4c38-a14c-e4f4989ac418,1710,2022-05-27,,,200.0,Completada
+40061db9-fba5-48da-88f1-be96c5688ef3,1711,2022-05-26,Pediatría,Dr. Camilo Rojas,180.0,Completada
+d73325e2-639e-4dc0-a305-095a2e7cc5cb,1713,2024-12-26,Ortopedia,Dr. Andrés Murcia,200.0,
+7965ed74-066d-4961-bfc2-63715256d4bb,1714,2022-07-31,Neurología,Dr. Andrés Murcia,220.0,Completada
+e0e69c71-9973-41cb-82ea-fded6bfa34e8,1714,2025-02-23,Neurología,Dr. Camilo Rojas,120.0,Cancelada
+74255cd3-0429-41b6-8a9a-683b43723717,1723,2022-11-28,Ginecología,Dr. Camilo Rojas,220.0,Reprogramada
+860133e4-ff61-41ec-a04c-3af66778d436,1726,2022-02-11,Neurología,,200.0,Cancelada
+dbea77aa-be5f-47b2-91fa-7bca11ef5e99,1731,2022-02-11,Ginecología,,,Cancelada
+31fac7cc-1472-4e9c-b587-2fe17bea4adf,1731,2025-09-11,Neurología,,120.0,
+170aac5f-a1e3-4e2c-ab5a-77e670d9f840,1736,2022-09-06,Ginecología,Dr. Camilo Rojas,,Reprogramada
+2a050892-7882-47ba-8b21-1bfe3b4958ec,1748,2023-11-26,Neurología,Dr. Andrés Murcia,220.0,
+7e7cf669-a129-4891-a465-350b7e72fd1e,1752,2025-05-10,,Dr. Camilo Rojas,100.0,Completada
+a945f267-8833-4a3c-b45a-9472da0f8289,1752,2025-08-22,Ginecología,Dr. Juan Valdez,,Cancelada
+74e13e9f-bcbc-447e-b472-6d15db085013,1755,2024-04-30,Ginecología,Dr. Andrés Murcia,100.0,Reprogramada
+08cc97cb-74c3-4b77-8bce-c06b7aec5463,1763,2023-07-27,Pediatría,,,Reprogramada
+dc756d54-595f-4857-baae-98c66cc6ae55,1767,2022-08-20,Neurología,,100.0,Completada
+7bf381e9-bdad-4f3e-9fcd-e52ac9e7de30,1767,2023-05-30,Neurología,Dr. Camilo Rojas,120.0,Completada
+efb8fee7-0551-48a7-8804-1aec868daf14,1767,2025-12-23,Ortopedia,,120.0,
+4dec06ad-3b6c-4dc5-933f-9e09bbb0b510,1773,2025-12-11,Ortopedia,Dr. Juan Valdez,180.0,Cancelada
+aa4a4b02-0570-462b-857c-771423594a30,1773,2022-01-31,,Dr. Camilo Rojas,220.0,Completada
+93a393c2-ca9d-4c6e-8066-d87546715c04,1778,2024-11-07,Neurología,Dr. Juan Valdez,100.0,Cancelada
+287964bf-1eb2-4540-95c8-b412fe1490e4,1785,2022-09-03,Pediatría,Dr. Juan Valdez,,Completada
+62c1798a-66c9-4d3d-8f99-4233238f0b5d,1792,2025-04-20,Pediatría,Dr. Camilo Rojas,120.0,
+e3e9b2ea-98fd-4760-bd23-b35f3483ca03,1792,2023-10-17,Cardiología,Dr. Juan Valdez,120.0,
+d29a2b46-c211-4e30-803f-0f3935aa19b2,1792,2023-03-21,Ortopedia,Dr. Andrés Murcia,200.0,Reprogramada
+d301bd5c-4a00-459d-be03-14be860c93e2,1804,2024-11-18,Ortopedia,Dra. Lina Torres,220.0,
+785d90b3-2c69-48a7-b063-70de47b536cc,1809,2022-12-24,Pediatría,Dra. Lina Torres,220.0,
+875d132f-ea87-42ec-9d93-c48462f42ffd,1812,2025-10-01,Ginecología,,,Cancelada
+134d03ce-2ecc-4abc-8c05-4520060d875a,1816,2025-02-23,,Dr. Juan Valdez,180.0,
+6ab497d7-6db5-43d2-af1e-4afab43402fb,1817,2025-10-27,Neurología,Dr. Juan Valdez,220.0,
+c28fbbe2-e6e1-4b81-888d-4aeb6c1a314e,1823,2022-11-14,Neurología,Dr. Andrés Murcia,120.0,Cancelada
+8dc720bc-306f-40ed-84a3-402a0153cefc,1825,2025-11-06,Ortopedia,,220.0,Completada
+3ae501d2-6dc1-4319-9524-95c16e308efc,1825,2025-12-18,Ginecología,,100.0,Reprogramada
+6e5e2d7e-a90c-4f42-92e9-98fadcc8a2b0,1831,2024-08-15,Pediatría,Dr. Camilo Rojas,200.0,
+05c53223-5333-49f3-b183-06a559edd5dd,1845,2022-06-28,Neurología,Dr. Juan Valdez,120.0,
+1dabcba8-4c35-47f1-a31a-8f7599e57f4e,1846,2022-02-12,Pediatría,,200.0,Completada
+61586c74-0f5c-46fc-9c80-86878ded3e4b,1853,2023-04-27,Neurología,Dr. Andrés Murcia,,Completada
+5dabbd3f-bc85-496e-b46b-6fffa84aa88f,1854,2022-11-19,Neurología,Dr. Camilo Rojas,,Reprogramada
+06fc1802-e496-4d46-b20d-b42c17cc4e6c,1854,2024-10-12,Ortopedia,Dr. Camilo Rojas,120.0,Cancelada
+f595191f-61ae-4249-9899-e3f721061310,1863,2022-06-26,Ortopedia,Dr. Andrés Murcia,100.0,Cancelada
+c5749eef-e7cf-4958-96e6-5a7d6a06face,1863,2022-06-24,Pediatría,Dr. Andrés Murcia,120.0,
+04af9aa1-5453-45e0-9853-1bd0b923f916,1868,2022-04-12,,Dr. Andrés Murcia,,Completada
+04ebae24-1fd8-4258-9077-7f88b8bb26ae,1869,2025-09-03,Ginecología,Dr. Camilo Rojas,220.0,Cancelada
+5081b280-956e-4884-8b9c-51b49629f245,1875,2025-01-13,Cardiología,Dr. Camilo Rojas,100.0,Cancelada
+0fe0e53b-fa28-492c-8574-c5670dd84fc4,1875,2022-10-02,Pediatría,Dr. Juan Valdez,220.0,Cancelada
+e2f942ac-b261-4bb1-8f74-bd0252168eb6,1876,2023-10-25,Ortopedia,Dr. Juan Valdez,180.0,Completada
+0da6b865-531f-4ff1-882f-f9269ef4d570,1877,2022-09-12,Pediatría,,200.0,Cancelada
+c4eaf89e-4c91-4a82-9dd9-1483b2afcf5d,1881,2023-05-19,,,120.0,Reprogramada
+532ef945-c73a-4fb5-958d-add05c463ea1,1881,2023-10-30,Ginecología,Dr. Juan Valdez,,Completada
+b79049ff-4590-455c-98e7-03d85aac8608,1883,2022-02-09,Pediatría,Dr. Juan Valdez,,
+eca849ed-5101-43dc-9f5e-1f69ae6bef82,1883,2024-06-16,Pediatría,,180.0,Completada
+3289f1db-5962-4936-82cc-298c8a44bb81,1885,2025-03-03,Cardiología,,200.0,Reprogramada
+2fc0046f-3b2b-417d-a453-0c2e2dd36ecb,1890,2022-01-26,,Dr. Juan Valdez,180.0,Reprogramada
+65c8951b-c8e4-41eb-ae71-7874501c7778,1891,2022-10-31,Pediatría,Dra. Lina Torres,220.0,Reprogramada
+910b5737-869a-4378-8e27-acd3164d3544,1891,2022-10-26,,Dra. Lina Torres,100.0,Reprogramada
+97f964ba-53d6-4a33-8db0-029efbd97cfb,1896,2025-01-20,Pediatría,Dr. Camilo Rojas,200.0,
+2c925d6a-cbb7-40f7-96d9-f6d2277c54d2,1896,2024-11-29,Cardiología,Dr. Camilo Rojas,220.0,Reprogramada
+d577d040-2582-4512-a740-576a157e3dd9,1902,2024-09-22,,,,Completada
+b7366369-c259-4cb3-afa5-4e07db16e1bd,1912,2025-01-21,,Dra. Lina Torres,200.0,Cancelada
+2389a5d5-bc26-4a05-9f18-f70b9375323a,1912,2023-07-09,Pediatría,,200.0,Reprogramada
+64b1c50d-4a5f-4a09-897a-37302593af93,1914,2022-10-22,,Dr. Andrés Murcia,220.0,Cancelada
+77616e42-9e67-48f8-9334-26cdce362dcf,1915,2025-01-09,Ginecología,Dr. Andrés Murcia,200.0,Reprogramada
+55ccb1d3-3a0f-4d95-afd2-30f1fb1dbfc0,1921,2022-10-10,Cardiología,Dr. Juan Valdez,100.0,Cancelada
+72d274ff-9cde-4606-8d74-53e161f792c0,1921,2025-11-07,Ortopedia,Dra. Lina Torres,120.0,Completada
+073e2ed3-fda0-4a00-b0f9-5b63872c042c,1922,2024-06-06,Neurología,Dr. Andrés Murcia,100.0,Completada
+9611b92f-702a-4529-aff6-2b52483a3203,1943,2022-12-28,Ortopedia,Dr. Camilo Rojas,,Reprogramada
+54b63057-6d5d-40a3-9a72-b4da5e7010f2,1943,2023-06-07,Neurología,,100.0,Completada
+37ff8c33-c713-4608-a919-0327e3208564,1950,2025-12-23,,,200.0,Reprogramada
+f3acbadd-0503-4e02-bd8f-8b0fd770ccdf,1953,2024-02-14,,Dra. Lina Torres,100.0,Cancelada
+e7785bbd-af70-423c-9c0f-3cc9a2b0082e,1955,2025-09-04,Ortopedia,,200.0,
+c77aeb90-8d66-4063-8ab2-e428063d7c33,1962,2022-09-19,Neurología,,,Completada
+9d346b0e-c753-4d7d-bb3e-5809c68657c8,1965,2023-04-09,Cardiología,,200.0,
+a5c4c938-78b5-45d1-aded-c8bcc3cd1aaa,1987,2023-06-20,Neurología,,200.0,Cancelada
+67e79b10-c947-4bb2-bba6-8664934289a4,1987,2025-12-31,Neurología,Dr. Andrés Murcia,120.0,Reprogramada
+b6ce39e1-6488-44b9-a3f6-569c7d4ca519,1988,2022-12-02,,Dr. Camilo Rojas,,Cancelada
+f5c68b3d-edca-421f-8391-cf6ce04ddb57,1989,2024-05-12,Pediatría,Dr. Juan Valdez,200.0,Completada
+6a2de94c-5865-4c23-bfa3-bc6299474e3f,1990,2022-08-17,Ortopedia,Dr. Juan Valdez,100.0,Completada
+a75a6587-5ca7-413b-a08a-7a533a521876,1990,2023-02-08,Ortopedia,,,Cancelada
+ac1be08b-6a0d-438d-8141-36638be58b68,1991,2022-02-12,Neurología,Dr. Andrés Murcia,,
+ae522a62-4855-47b3-b671-ed1215c227ad,1994,2023-06-28,Neurología,Dr. Camilo Rojas,180.0,Cancelada
+fb0f4690-3474-448d-a912-e38a967df34e,1995,2022-11-15,Ginecología,Dr. Camilo Rojas,200.0,Cancelada
+6e24e579-d909-49e8-b5d0-44b312b55242,1995,2025-05-10,Cardiología,Dr. Juan Valdez,200.0,Cancelada
+f9108107-1aa3-4b5c-a9bb-d54fec3acdfb,2012,2025-09-04,Neurología,Dr. Andrés Murcia,120.0,Completada
+0582f77b-0069-445e-bc0b-d750dfc647be,2017,2022-11-06,Pediatría,,,Reprogramada
+0d7296df-efce-4728-ad74-cc7a892111b1,2017,2022-01-27,Cardiología,Dr. Camilo Rojas,200.0,Reprogramada
+ccf27067-f7ba-42d8-80c4-5005d03856d1,2022,2023-07-19,Neurología,Dr. Juan Valdez,200.0,Completada
+d6d284be-d248-4a0e-80d0-b9196d28f6b4,2031,2025-03-14,Ortopedia,Dr. Juan Valdez,,
+79aa7806-d050-49b4-8fb4-fd5c64ae95fa,2039,2022-04-21,Cardiología,Dr. Camilo Rojas,120.0,Completada
+3bc249be-8d9b-4376-a5e5-383ce0174a98,2043,2024-07-23,Neurología,Dr. Juan Valdez,180.0,
+7a014903-3373-4297-97ae-2ec05478a468,2045,2023-02-06,Pediatría,Dr. Juan Valdez,,Reprogramada
+9d8f4e74-fbdb-4b33-b81d-3e929f06c78e,2048,2024-11-01,Pediatría,Dr. Camilo Rojas,200.0,Cancelada
+5108838d-fba8-4a39-b208-8c163ade82d6,2054,2025-06-13,Neurología,,200.0,Completada
+ae8bdcac-6a87-426b-b286-99b51caedc31,2055,2022-01-10,Cardiología,Dr. Camilo Rojas,120.0,Cancelada
+d1a6dc8a-aa3d-40e5-9217-27d305ac532f,2055,2024-10-20,Cardiología,Dra. Lina Torres,200.0,Completada
+b326e104-7bc3-44fa-a223-7a9e874c9821,2056,2025-02-24,Neurología,Dr. Juan Valdez,100.0,Cancelada
+9e7df582-cbde-4961-ace8-d4cfad68010f,2056,2023-01-08,Neurología,Dra. Lina Torres,,Reprogramada
+7ddaf52f-3954-48c1-bc79-c921ca056dc4,2059,2025-08-15,Cardiología,Dr. Camilo Rojas,200.0,Cancelada
+03cece95-7f92-47c4-a973-162b8d4a533b,2059,2024-09-03,,,,Reprogramada
+d4be0e5c-566d-47e6-9be5-bb25edb678ae,2067,2025-12-09,Neurología,Dra. Lina Torres,220.0,Completada
+632a5fb8-2510-4a08-bec9-b0801110e928,2069,2024-04-03,Neurología,Dr. Andrés Murcia,120.0,
+ca1bbf1c-9e0f-46b8-886d-53c1f5a09630,2072,2023-05-18,Neurología,Dr. Juan Valdez,220.0,Cancelada
+5d1291e4-cc20-48a5-ab91-8e0775ebcbe7,2074,2022-02-23,Cardiología,Dr. Juan Valdez,100.0,Reprogramada
+9b8dbbb6-413e-4c99-ae81-04dd83f925f9,2076,2022-10-06,Pediatría,Dra. Lina Torres,,
+b202a4f4-aeb1-4e46-a176-5edd63dd040a,2078,2022-08-29,Neurología,Dr. Camilo Rojas,100.0,
+d76cd2f8-b829-4716-9973-1b12cd6bd447,2084,2025-04-17,Pediatría,Dr. Andrés Murcia,200.0,Completada
+284cfdde-79e2-428e-a0db-59be2ed42c29,2097,2023-01-04,Ortopedia,Dr. Andrés Murcia,,Reprogramada
+10027c69-bfbf-4c55-8d6c-916e41a33119,2100,2022-12-05,Ortopedia,Dra. Lina Torres,100.0,Cancelada
+2d7a1e7a-3ceb-479f-bb62-66c560ce69e4,2101,2024-10-09,,,180.0,Completada
+adf9e4b7-597c-48af-83a0-90d3a5168b06,2102,2025-12-23,Neurología,,100.0,Completada
+3f66f387-0402-45ef-b843-2343546b3cbc,2106,2025-12-24,Cardiología,Dr. Andrés Murcia,100.0,Completada
+1e4fb71d-f7b8-4d0d-90bc-8617e4809d75,2113,2022-11-07,Neurología,,200.0,Reprogramada
+8a9ac392-3382-441f-a221-02faaed21108,2115,2023-08-13,Pediatría,Dra. Lina Torres,120.0,Completada
+0ca685b0-6397-435c-b50f-c7775232dead,2122,2023-06-26,Cardiología,Dra. Lina Torres,100.0,Reprogramada
+5e7cfd78-037d-4590-8533-6cbf3641f644,2123,2025-01-25,Ortopedia,Dra. Lina Torres,120.0,Reprogramada
+174f2d5d-6c3d-45bf-8dcc-9d8d43709ff5,2124,2025-10-14,Neurología,,220.0,
+a680950d-c8f2-4bf1-a1fa-61438584ff3a,2134,2023-01-13,,Dr. Juan Valdez,100.0,Cancelada
+220c0dc3-3ed4-420c-9246-c16a572d01bf,2134,2022-09-28,,Dr. Camilo Rojas,180.0,Completada
+c63816cf-e9d6-470e-909a-0e3ff9f13d68,2139,2023-10-14,Cardiología,Dr. Juan Valdez,220.0,Completada
+95650ce8-e8b1-4740-851d-be7fdbb3dca0,2142,2025-11-13,,,120.0,Completada
+98b5c524-58a3-4ffa-af32-bcf389019a33,2146,2024-06-29,Ginecología,,120.0,
+29d7949d-245b-4f41-acdf-110ea05e5ded,2147,2025-03-24,Pediatría,Dr. Camilo Rojas,220.0,
+8cd20f70-f8a5-4812-9b63-4fd891453f51,2153,2024-06-29,Neurología,Dra. Lina Torres,220.0,Completada
+c4afb31a-f4ed-48d2-ad98-e225ee6a4727,2154,2024-07-11,Ortopedia,,,Reprogramada
+bfadac4d-4f01-4c81-9a42-60042ee0720b,2154,2025-01-17,Pediatría,Dra. Lina Torres,100.0,Reprogramada
+f216dcd0-4fd8-4715-af88-434f59545c65,2166,2024-11-27,,Dr. Andrés Murcia,180.0,Cancelada
+9b28a0f4-7702-4098-a670-12a0b02ed704,2166,2025-01-26,,,100.0,
+cc0dec1d-fb73-4f3d-84ae-fc3466456d64,2178,2023-01-19,Neurología,,200.0,Cancelada
+c44d6d20-6641-4487-b055-8391c9023082,2188,2025-10-29,Ginecología,Dra. Lina Torres,180.0,Cancelada
+759c9f44-6d84-45ac-884d-d0fc5d036ec9,2194,2023-03-07,,Dr. Juan Valdez,200.0,Cancelada
+d5f9a46b-62f5-4085-b4bd-c738a106b3c9,2195,2022-03-21,Pediatría,,220.0,Cancelada
+d11a5a57-1bed-42ca-8725-dcb230f39820,2206,2024-09-21,Neurología,Dr. Camilo Rojas,120.0,Reprogramada
+778e5d4d-45fc-4c1a-bbcc-86d903fe83d0,2206,2024-01-03,,Dr. Andrés Murcia,100.0,Completada
+f30a04ef-5edf-48a3-a64b-1859c7e027a7,2209,2023-08-30,Ortopedia,Dr. Camilo Rojas,180.0,Cancelada
+011d7602-fd29-4490-9334-b8fcd1da163b,2211,2024-09-10,Ginecología,Dra. Lina Torres,100.0,Cancelada
+36ed8781-eb03-45a5-ae38-f54a9fb8663e,2227,2024-01-05,Ortopedia,Dr. Camilo Rojas,180.0,
+f6c4c88d-2f7d-4349-8e53-b236c75eae4c,2229,2023-06-26,Cardiología,,,
+22ea86a3-eaf5-4f7c-9b7c-c020ee30b166,2230,2022-10-21,Neurología,Dr. Camilo Rojas,200.0,
+fe1db3e9-b563-4114-8a0c-360a3c98b411,2230,2025-08-10,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+06dfc767-7e1b-4669-b9c0-432e81a360f4,2233,2024-11-21,,Dra. Lina Torres,100.0,Reprogramada
+c010cd29-db82-4fde-a4fb-f20bade7edfc,2237,2022-04-13,Ginecología,Dra. Lina Torres,,Reprogramada
+ce88f85a-4942-49d5-97da-630b6b4c5432,2237,2024-10-09,Cardiología,Dr. Andrés Murcia,120.0,Completada
+521c603c-e786-4cb7-a85b-062d2e68e80d,2246,2023-11-21,Ortopedia,,180.0,Completada
+07397de9-50ca-41cc-9828-8bcee6d77264,2251,2025-06-06,Ortopedia,Dr. Andrés Murcia,220.0,Cancelada
+77b936dc-6bda-412e-a80d-f9538a077210,2254,2024-12-15,Ginecología,,220.0,Reprogramada
+ba279cd0-6769-4bce-822c-477ddb411f60,2258,2022-05-12,,,120.0,
+d827fd31-12b3-4063-89e9-0cc6be41ab29,2258,2024-04-06,Ginecología,,100.0,Completada
+7ac2a81e-d5e3-473d-a469-f017b167f3f9,2261,2024-02-13,Neurología,Dr. Juan Valdez,100.0,
+7941516b-edee-43ff-b32e-37351221bef7,2265,2025-05-04,Ortopedia,,220.0,Cancelada
+a3218067-8d61-4579-93aa-b479dbd784ea,2265,2022-02-08,Neurología,Dra. Lina Torres,220.0,Reprogramada
+05e633ec-bf73-45a0-90f4-a6ee7237df6f,2268,2025-11-28,Cardiología,Dr. Andrés Murcia,,
+23d3c286-e3c0-44be-8614-792a3085e597,2269,2025-03-08,,Dr. Juan Valdez,220.0,Completada
+cb8c355b-1f49-40ab-a872-255ac796dc10,2272,2025-02-12,Cardiología,,,Cancelada
+543c08b9-3520-4f48-bcdf-58c052e5d266,2273,2025-03-09,Pediatría,Dr. Juan Valdez,100.0,Reprogramada
+347cfa53-736b-4918-b426-809c61b7975b,2285,2022-04-30,Ginecología,Dr. Camilo Rojas,,Completada
+37a0eac5-cc9b-4e72-a68d-4ac7be4fd71e,2288,2022-12-14,Cardiología,,,Completada
+cab6420c-8bd4-40cc-8d05-9df90115feee,2288,2024-01-08,,Dr. Juan Valdez,,
+185760d8-7cd9-4b18-928c-c8d81cd03c4e,2288,2022-12-17,Neurología,Dr. Juan Valdez,180.0,Completada
+393d4e3b-0a09-4dcc-9749-46b6bde8c79e,2290,2024-10-26,Ortopedia,Dr. Juan Valdez,180.0,
+d6a453a2-193f-4e70-9b42-58ab1e7f3155,2291,2024-11-01,Ortopedia,Dr. Juan Valdez,180.0,Completada
+c302d579-bede-4457-87a2-4d79d9a2ec08,2301,2023-09-06,Pediatría,Dra. Lina Torres,120.0,Completada
+bde34be0-9bc2-4634-9824-cbc970de0823,2307,2022-05-19,,,120.0,Completada
+c646af6c-4c94-4e23-85f5-f04b80bc78b0,2311,2022-02-22,Ginecología,,200.0,Cancelada
+2ba86e45-410a-4cfd-a033-19eb41cb2860,2312,2022-07-07,,Dr. Andrés Murcia,180.0,Cancelada
+c9551b74-6d39-471f-91a8-39ae8aab3fde,2313,2024-01-18,Ginecología,,120.0,Cancelada
+5007aef7-1924-4839-ba94-e8c6dadbc81d,2316,2022-04-07,Ginecología,Dr. Juan Valdez,200.0,
+8ea42bde-00e3-459b-a657-fb1077ac2300,2319,2022-10-20,Neurología,Dra. Lina Torres,180.0,Reprogramada
+0a011790-b966-47ac-a974-d3e00f488e91,2334,2022-08-11,Ginecología,Dr. Juan Valdez,,Completada
+f6406b61-a40b-4822-90fc-48f038acdebf,2334,2023-12-18,Ginecología,Dr. Juan Valdez,120.0,
+98f3dac9-d588-4f9a-966c-da0103fb94fe,2337,2022-03-13,Cardiología,,100.0,Completada
+105a6254-9dfc-4f20-9e52-8a75f615a95b,2338,2025-08-23,Ginecología,Dra. Lina Torres,220.0,Cancelada
+c05551a5-120f-4870-a022-ffbd8993a2ed,2339,2024-06-19,,Dr. Camilo Rojas,,Completada
+d2b2b482-006a-48cd-a0cd-29d8f039f56f,2341,2023-07-31,Neurología,Dr. Camilo Rojas,220.0,Reprogramada
+7bea0238-88c9-451a-8d6b-07a23c6ce741,2341,2023-09-28,Neurología,Dr. Andrés Murcia,120.0,Cancelada
+b7c4f2b0-3549-4e1d-8787-a1bbec55c843,2346,2024-08-10,,Dr. Camilo Rojas,120.0,Reprogramada
+a791c13f-af72-4824-b1e2-f9a4a4828be9,2352,2025-03-29,Ginecología,Dr. Andrés Murcia,200.0,Completada
+d7ebdd7e-86b0-448a-9578-5f23db200c87,2359,2022-08-03,Neurología,Dr. Andrés Murcia,120.0,Reprogramada
+1238c24b-8272-4c36-b15e-72a034992e6a,2363,2022-09-08,Ginecología,,120.0,
+c39a04c4-5bbf-432d-b3f2-7134468638e5,2363,2022-12-05,Ortopedia,,120.0,Reprogramada
+6dd73d06-6c01-4e4c-8207-2df1283ef66c,2371,2025-11-16,,Dr. Andrés Murcia,220.0,Reprogramada
+847c8f59-f060-4fed-98be-f83be88e2771,2388,2025-12-02,Pediatría,Dr. Camilo Rojas,220.0,Reprogramada
+8180f567-3a05-412b-a8ea-feb0511bcd83,2388,2022-03-29,Cardiología,,180.0,Completada
+227fb8fe-f20b-4f96-b544-e8b039eb5c78,2389,2023-11-01,,,180.0,Completada
+02941b0b-3d51-4bcf-8b34-d2d559781052,2394,2023-02-24,Ortopedia,Dr. Andrés Murcia,180.0,
+61090048-e72b-4054-9429-60093388cf04,2397,2025-03-31,Pediatría,Dra. Lina Torres,180.0,Cancelada
+ffac1329-e021-4080-8948-e62847731e63,2397,2025-07-21,Neurología,Dra. Lina Torres,220.0,
+631c8b31-c22a-4bd9-bc3a-eb7675be6de4,2398,2022-06-09,Ginecología,Dra. Lina Torres,120.0,Completada
+7d6cabbd-1606-4c62-a654-026faaf775af,2399,2025-07-02,Ginecología,Dr. Camilo Rojas,,Completada
+87305198-d96f-416c-9220-4fb57cbe2c6e,2410,2022-10-25,,Dr. Camilo Rojas,,
+99892538-108b-4305-a588-678705b3f573,2410,2023-06-20,Pediatría,Dr. Andrés Murcia,,
+0116ec48-d97e-4551-b242-669ea6306117,2427,2023-07-10,Pediatría,Dr. Andrés Murcia,220.0,Reprogramada
+dd796eb5-b36d-4ee9-96f5-9573bd7e8acc,2428,2025-10-18,Pediatría,Dr. Andrés Murcia,120.0,Reprogramada
+0d990965-4601-41a0-92c1-6150d51933b7,2441,2025-04-03,Neurología,Dr. Andrés Murcia,,Completada
+1c5e5ab1-1792-47d6-a23e-c91656fff29b,2449,2025-07-04,Ginecología,Dr. Juan Valdez,200.0,Completada
+fa7baa9e-9bfd-4940-97f0-a86000e90456,2454,2023-03-07,Cardiología,Dr. Camilo Rojas,100.0,Completada
+4d2bdecf-df24-45d2-ae29-d77e35402eaf,2455,2022-07-01,Cardiología,Dr. Andrés Murcia,200.0,
+9c499638-8d53-4cfd-9677-351a6755d7da,2456,2024-10-17,,,220.0,Cancelada
+7b7be560-61ca-414e-a8e5-f3cfbac4acd8,2456,2023-11-01,Pediatría,Dr. Juan Valdez,180.0,
+b21e96af-c1d3-4977-8433-b6db154cec76,2458,2024-05-17,,Dr. Juan Valdez,120.0,Reprogramada
+5d2f81ee-8b8d-43ef-afee-51983ff3d3a1,2465,2023-02-01,Ortopedia,,120.0,Cancelada
+e3ac0214-8313-4e79-9f10-ca52626eb7a1,2466,2023-07-03,Ginecología,Dr. Camilo Rojas,200.0,
+41d50e7d-98e8-4ae3-9962-8ae27b531211,2472,2024-08-24,Ortopedia,Dr. Juan Valdez,200.0,Reprogramada
+97e2b52f-1526-43d8-8b69-5fd219f40265,2476,2023-08-01,Cardiología,Dr. Andrés Murcia,,Reprogramada
+9c0630d9-93b0-412a-b2f9-ed363467229e,2480,2022-03-25,Neurología,Dra. Lina Torres,220.0,Cancelada
+884b70ee-c79b-4663-8fee-18521774044f,2482,2024-11-08,Pediatría,Dr. Andrés Murcia,120.0,Cancelada
+b087f8ad-02d5-4964-ab88-d8210fc70768,2488,2023-03-09,Cardiología,Dr. Andrés Murcia,220.0,
+24d40d4e-56d5-4855-9eaf-b763d678ef0b,2488,2023-11-19,Ginecología,Dr. Andrés Murcia,180.0,Cancelada
+e13a67e6-6369-4cb0-84fd-60611359d926,2489,2025-01-12,Pediatría,,120.0,Reprogramada
+4fc4fbc4-8a05-4cb4-9605-e06f8b261a05,2496,2023-03-18,Pediatría,Dra. Lina Torres,120.0,
+37c7de9d-91ee-4c2e-8eb3-caf15954d493,2500,2022-08-25,Ortopedia,Dr. Camilo Rojas,,Reprogramada
+5c6a9c4d-0bc5-4683-9a89-289cc0772bbe,2504,2025-02-03,Ortopedia,Dr. Juan Valdez,180.0,Completada
+6a09618b-4997-46e0-9af3-2890701e4927,2504,2025-10-21,Ortopedia,,,Cancelada
+e61dd805-8b09-4e40-bdeb-fa527a17c59f,2504,2022-05-05,Ortopedia,Dr. Andrés Murcia,220.0,
+83f8fb53-b77c-4580-902b-bf867322a599,2508,2024-06-30,Cardiología,Dr. Andrés Murcia,100.0,Cancelada
+d3600bf5-5b5b-41e6-bee0-d38ae06f1744,2509,2023-09-07,Ginecología,Dr. Andrés Murcia,100.0,Cancelada
+2a42f014-3ee0-448f-82de-8753dd883c5e,2509,2025-09-23,,Dr. Camilo Rojas,100.0,
+b7641cf8-3ff1-4822-8e40-ebc084f29b2e,2514,2022-07-10,Cardiología,Dr. Camilo Rojas,200.0,Cancelada
+c108a0ad-a569-4cf8-9a91-77914af3e3f7,2516,2024-08-17,Ortopedia,,,Completada
+1e03d7b5-c34a-4a9d-be0a-7527138290c4,2516,2024-12-18,Ginecología,Dr. Juan Valdez,220.0,Reprogramada
+c1e707cb-690b-4c77-92e1-8c46aa58590e,2518,2023-12-17,,,,Completada
+d2fe4f4e-a5eb-476b-aa57-17a9317b5d72,2524,2024-01-18,Ginecología,Dr. Juan Valdez,200.0,Reprogramada
+e94ce645-b4cf-49d5-80f5-5d139cbd8207,2529,2022-04-03,Ortopedia,,120.0,Cancelada
+69e2c88e-3e9d-4198-bd10-4c8ef9c72368,2540,2022-05-18,Ginecología,Dr. Andrés Murcia,100.0,Completada
+174537b1-dc22-4f18-aa28-43cd5f0ac8ef,2546,2025-12-16,Ginecología,Dr. Juan Valdez,120.0,
+850c8485-16ec-46c8-9e1c-d2acce8e17b1,2548,2022-05-01,,Dr. Andrés Murcia,120.0,Cancelada
+216568c7-d29e-4fa7-84d6-cb723f711443,2550,2024-10-23,Pediatría,,100.0,Reprogramada
+9e50aba1-d8f5-4ad3-9693-1f793d00502a,2551,2024-04-16,Neurología,Dra. Lina Torres,,Reprogramada
+5928b06c-f1bf-490e-ae92-f4a21dbae0f7,2562,2022-02-06,Neurología,,180.0,
+9f75031e-947e-421c-b54c-2c85f93d010a,2566,2023-02-13,Neurología,Dra. Lina Torres,180.0,
+6ceb81f6-00c8-4a27-a9eb-a5c9995d4f66,2569,2024-07-07,,Dr. Camilo Rojas,100.0,Cancelada
+e7c29604-4aeb-4407-ad36-9ab7684bd4b0,2570,2023-05-05,Ginecología,Dr. Camilo Rojas,,
+2308784d-273f-46a5-bad0-b55a65d0f957,2574,2022-04-10,,Dra. Lina Torres,,Reprogramada
+fb117a10-a650-4be9-8199-f9756371828e,2576,2025-09-19,Cardiología,Dr. Camilo Rojas,220.0,Cancelada
+9866d673-97b5-4396-8b91-29c8f385cd29,2581,2023-05-18,Pediatría,Dr. Juan Valdez,220.0,Cancelada
+16682f27-f8ea-42fe-8e8e-ca84bb51a27d,2582,2024-04-12,Ginecología,Dra. Lina Torres,100.0,Completada
+18614823-a7dc-408b-b45a-749bb78852c7,2582,2022-02-21,Pediatría,Dr. Juan Valdez,100.0,Reprogramada
+6f0e20d2-026a-40b1-8329-055eb5086422,2583,2023-03-11,Cardiología,Dr. Andrés Murcia,,Cancelada
+b9803ab7-6792-44ec-80b6-ba7623734af3,2584,2022-04-09,Pediatría,Dra. Lina Torres,100.0,Reprogramada
+0c598856-9e9b-45a7-8552-a923a1a8216c,2603,2022-11-20,Ginecología,Dra. Lina Torres,200.0,Reprogramada
+9328615e-c242-4a3a-9f84-189ff09f795d,2603,2022-12-15,Ortopedia,,220.0,Completada
+914752e3-8b63-44f2-9ca2-7c6b5a5621a2,2607,2024-12-17,,Dra. Lina Torres,220.0,
+14c93c77-50d8-4273-ab53-d8be151ed6a9,2609,2024-08-09,,Dr. Camilo Rojas,200.0,Reprogramada
+d724cf98-2de1-4c74-adfc-a650ebff6d77,2618,2024-07-17,Ginecología,,,Cancelada
+b7dfdf77-e5e2-446a-a5eb-6e392a5fb595,2622,2023-07-12,Pediatría,Dr. Camilo Rojas,180.0,Reprogramada
+e74ef5ee-3f5a-4b1d-9961-59d98541c227,2631,2023-09-03,Pediatría,Dr. Andrés Murcia,200.0,Reprogramada
+7232c6ad-36e9-4a52-ac42-4bfd63533923,2645,2025-08-26,Ortopedia,,220.0,
+5858dd2a-5259-4dd9-a1e5-afe9e671e845,2645,2022-09-23,,Dr. Juan Valdez,120.0,Completada
+1b5a8e34-7237-4fd0-83f7-824f9aa1787e,2646,2023-10-06,Ortopedia,Dra. Lina Torres,220.0,
+a45eebef-c093-40bd-85cb-4a25ee1a61e5,2646,2024-12-15,Neurología,Dr. Juan Valdez,,Reprogramada
+6115828d-5f4f-4a28-9528-204d3d562deb,2647,2024-07-12,Ginecología,Dra. Lina Torres,180.0,Cancelada
+9b84b810-4556-4d7e-867c-5be7ff24418c,2653,2022-02-03,Pediatría,Dr. Juan Valdez,220.0,Reprogramada
+636562ba-ebf3-4f77-a3b6-f8a88677c2d0,2656,2023-08-19,,Dr. Camilo Rojas,100.0,Reprogramada
+0f81d69a-84a7-48dd-a538-68ac9864e78d,2657,2024-11-26,Ortopedia,Dr. Juan Valdez,120.0,
+84412c8a-e449-442e-852b-aad613dfaee6,2661,2024-06-10,Ginecología,,220.0,Reprogramada
+af571b58-8a58-4b8c-846a-fdc4a5239667,2664,2023-06-22,Neurología,Dra. Lina Torres,120.0,
+ccea0bb3-f3db-4874-bd29-1fd981406a73,2670,2025-08-14,Ginecología,Dr. Andrés Murcia,180.0,Cancelada
+7196bb52-8583-4af2-9d3a-57c35cb12599,2670,2023-10-25,Ginecología,Dr. Juan Valdez,120.0,Cancelada
+22383712-6c1a-4872-ad66-307fec6d96d6,2670,2024-02-21,Neurología,Dra. Lina Torres,100.0,Cancelada
+61d74c06-7cb8-44f5-bc44-8464f45231fa,2671,2023-09-08,Ginecología,Dr. Andrés Murcia,200.0,
+ec1a9630-76de-48b9-bce1-b4e6b54e09c4,2673,2025-01-12,Ortopedia,Dr. Juan Valdez,200.0,
+7e6357c3-4a42-4e95-9458-37f3e0046df4,2673,2024-10-12,,,,Reprogramada
+8fc9ddd0-293c-4677-9c6f-eb815454096b,2681,2022-05-04,Ginecología,Dr. Camilo Rojas,180.0,
+f0acbfc7-ae48-4bfa-8cbe-de9aa5487d2f,2689,2024-05-31,,Dr. Andrés Murcia,100.0,Completada
+9b73855c-78e5-49f7-9482-3f16109fa166,2699,2022-04-28,,Dr. Juan Valdez,100.0,Reprogramada
+9952511d-6987-4031-817b-b2ebb978d2b9,2704,2025-07-29,Pediatría,Dra. Lina Torres,100.0,Completada
+5389218a-f265-4855-9340-0fdb68b9881c,2705,2023-08-01,Ginecología,Dr. Juan Valdez,100.0,
+6e7ff813-e916-4eed-bf2f-8ad6a13a3402,2707,2024-02-07,,Dra. Lina Torres,,Reprogramada
+3b42c405-23c4-41fd-878f-2bfebf786aa0,2712,2023-02-24,Pediatría,Dra. Lina Torres,220.0,Completada
+ab00b800-9c34-4c5d-97a3-333f405fe518,2716,2024-05-13,Ortopedia,,180.0,Reprogramada
+0d6b9fd3-d7d5-48c2-8143-8e550061a986,2716,2025-02-22,Ortopedia,,200.0,
+3790114c-fe53-434a-acd0-e42489003275,2723,2024-09-29,,,200.0,Cancelada
+7fc14a16-839a-4cd0-8710-57e315951b74,2725,2024-12-05,Pediatría,,180.0,Reprogramada
+94b9e649-474c-45e7-b50b-4e3fb8892f38,2731,2025-04-19,Ortopedia,Dr. Andrés Murcia,200.0,
+e5c32347-fc29-4c87-826c-db45ac25aaf3,2731,2022-09-22,,,200.0,Cancelada
+3deaa49d-5575-4448-9bc6-3f364bd0cd2f,2732,2025-10-03,Cardiología,,,Completada
+e7ebcc72-f90b-4351-bb29-482525989dd9,2732,2024-04-03,,,,
+cec70520-06bb-4522-887c-570a32a07a7b,2732,2022-01-21,Pediatría,Dra. Lina Torres,,
+292a58ca-6d3d-41b2-92cf-0e661ddab8ff,2746,2025-02-07,Cardiología,,120.0,
+904a4c85-e769-4359-b4be-0d71c9d2cee4,2750,2022-06-02,Neurología,Dra. Lina Torres,180.0,Completada
+2e91d5ab-b79a-4ceb-97a2-9db4f516a52f,2753,2024-06-10,Cardiología,Dra. Lina Torres,180.0,Completada
+d391a243-5cea-40ea-a8f9-3580b8e9e856,2757,2023-04-24,Ginecología,,200.0,
+db9c38ff-5505-4e9e-9343-8056b376b172,2780,2024-11-20,Ortopedia,Dr. Andrés Murcia,180.0,Reprogramada
+8f856cf8-83db-45e9-aacc-2d56b2579236,2786,2023-04-21,,Dra. Lina Torres,100.0,Reprogramada
+25d80e3b-0819-4fdc-a104-f25c91a4be06,2786,2024-04-04,Pediatría,Dra. Lina Torres,,Cancelada
+7429eb92-355d-49bf-b07b-7785ef8bd450,2793,2024-06-27,Ginecología,Dr. Andrés Murcia,120.0,Reprogramada
+bf5940d5-4757-4e56-a891-e63919724ba9,2795,2025-03-22,Cardiología,Dra. Lina Torres,180.0,Reprogramada
+879e30f8-c27d-4f1e-950d-31c7a7d400a9,2796,2024-10-28,Pediatría,Dr. Camilo Rojas,200.0,
+5041de88-e4bd-4ddc-922d-f48ded9c7735,2801,2022-04-09,Ortopedia,Dr. Camilo Rojas,100.0,Completada
+85457399-537c-47f6-855f-7cde08395daa,2803,2024-07-21,Pediatría,Dra. Lina Torres,200.0,
+f03401d8-2715-48f0-904c-b9142f9e4f11,2805,2025-05-06,Neurología,,200.0,Cancelada
+c273054f-54a9-4066-90fc-ff97006de93a,2805,2024-01-15,Neurología,Dr. Juan Valdez,120.0,
+bbd59aa5-7126-4b4a-936b-d1d7b7bbc1eb,2815,2025-01-01,Ginecología,Dr. Camilo Rojas,120.0,Completada
+1d610e85-3de7-4437-abb6-018817f4b1b7,2818,2022-12-17,,Dr. Andrés Murcia,220.0,Completada
+8cecb641-7d46-4a40-a0ff-152ac025eb10,2829,2025-06-07,Ginecología,,200.0,Cancelada
+2b85e2b5-28be-4561-bece-054e140208ec,2829,2023-10-20,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+c73b039a-fdfe-4d01-8725-7e94ae39e5f6,2831,2024-11-04,Ortopedia,Dra. Lina Torres,180.0,Reprogramada
+d46d4b84-f466-42ef-9492-249ee53c19cf,2831,2022-03-10,Ortopedia,Dr. Juan Valdez,120.0,Cancelada
+c96255f8-1ee0-4f39-a431-905ad52e2033,2833,2025-04-10,Cardiología,Dr. Andrés Murcia,200.0,Completada
+71c1fb82-6650-4dbd-831e-56c147156f5a,2834,2025-09-10,Ginecología,Dr. Andrés Murcia,120.0,Completada
+aaba4b62-6885-444b-a333-4510c1558220,2840,2025-09-02,Cardiología,Dr. Juan Valdez,,Completada
+74cbd3ab-301b-4197-bd39-dacd297a1790,2840,2025-01-28,Pediatría,Dr. Camilo Rojas,200.0,
+1c6e76b8-5b7a-498e-a7c0-30f587fb91e0,2849,2025-05-26,Pediatría,Dr. Camilo Rojas,,Cancelada
+5c537e4f-b0ab-4a1c-9e53-4542d32d48c1,2849,2023-07-06,Pediatría,,200.0,Reprogramada
+1f978dc3-4906-4369-9963-9a77a5050307,2871,2023-10-12,,Dr. Camilo Rojas,180.0,Cancelada
+a7df8fc7-5d96-4bce-bdb2-0695cb3cdd3c,2871,2025-02-08,Neurología,,220.0,Cancelada
+857540c0-3e83-4eca-a846-35c01445887b,2889,2023-10-18,,Dr. Andrés Murcia,,Cancelada
+5ae8225a-b1ef-4577-a30d-1f4c82c958ed,2889,2023-07-03,Ortopedia,Dr. Camilo Rojas,100.0,
+a0e9d310-6742-48bb-9008-d25e643b6290,2893,2024-02-03,,Dr. Juan Valdez,180.0,Cancelada
+78a0941d-4bb7-40aa-8753-3b94b967e393,2896,2023-11-27,Ortopedia,Dr. Camilo Rojas,220.0,Completada
+1abbde51-0bb6-4ff5-abd3-a1f95bad19db,2896,2023-07-16,Neurología,,220.0,
+db5bfcea-3d06-4507-bea1-86c6dae0edca,2900,2025-09-22,,Dra. Lina Torres,200.0,Completada
+4182e6f8-24be-4ac3-bade-7ecb3dea1e69,2901,2025-04-01,Cardiología,,100.0,
+675565e1-54db-401c-8eab-fcbb08c27866,2903,2024-03-15,Ortopedia,Dr. Camilo Rojas,,
+3e7e2286-8b5e-44e7-9b6f-c9b8a51667ea,2903,2022-12-31,Neurología,,120.0,Cancelada
+e21aa400-4fed-4469-bdbc-2d544cc24e3b,2906,2022-08-26,,Dr. Juan Valdez,180.0,
+42cddbaf-4e73-4bb6-aa29-2d14e1af0765,2906,2025-11-15,Ginecología,Dr. Camilo Rojas,,
+20918feb-5b81-450d-879b-69ce6f9cf2c6,2918,2025-12-20,,Dr. Andrés Murcia,200.0,Completada
+9deb9a87-496b-49ba-88f3-d2b2b5ef5728,2931,2023-06-01,Ortopedia,,220.0,Cancelada
+d7ec89a9-cb57-4580-a3ac-47aa0958c5d2,2935,2022-05-16,Ginecología,Dr. Juan Valdez,120.0,Cancelada
+d0937867-26cf-4de7-96ff-4bd72d1f9ff2,2939,2023-11-08,Ortopedia,Dra. Lina Torres,200.0,Reprogramada
+08d404f5-d212-4447-acc4-b011eb06e00d,2939,2023-01-28,Neurología,,,Completada
+8d0dae01-aa11-4e24-8f39-c3da72285b33,2941,2025-01-18,Pediatría,,120.0,Reprogramada
+ae59d86a-196e-47a6-87ef-7cc44f0d3fb1,2949,2024-11-03,,Dr. Andrés Murcia,220.0,Reprogramada
+ca917d93-68cd-47ae-b85d-c2ad7c49a79a,2966,2024-04-16,Cardiología,,100.0,Completada
+6ecdce1f-1804-4d82-a671-9065429c7a5d,2966,2025-10-02,Ginecología,Dr. Andrés Murcia,200.0,
+7d7485de-6a15-4759-b984-db0ac8e318d6,2966,2022-09-04,Pediatría,Dra. Lina Torres,180.0,
+b1f791c7-ffa1-44e8-8e77-2041a870c3bd,2972,2022-03-22,,Dra. Lina Torres,120.0,Cancelada
+f47f15af-26ec-433b-9acb-45765fc46960,2975,2024-11-24,Pediatría,Dr. Juan Valdez,120.0,Completada
+0d58f136-174d-47c7-bafb-7eefee3e34a6,2981,2023-09-04,,Dr. Juan Valdez,,Cancelada
+443318af-b63c-4948-9e37-4b30da4f82af,2982,2023-04-16,Cardiología,Dr. Juan Valdez,100.0,Reprogramada
+ca699f10-d858-4e9e-9e5a-2d37bd4e4bf5,2983,2022-05-10,Ortopedia,,100.0,Completada
+b4a9e58c-64ac-45c1-96a7-8ef9b3da5e27,2995,2022-04-21,Ginecología,Dra. Lina Torres,220.0,Cancelada
+dc41a5d5-3fe6-470a-bd58-5dd943fd88b6,2997,2024-06-25,Neurología,Dr. Juan Valdez,,Cancelada
+f171f09f-f697-40c1-aedf-c7e792c6f5c6,2999,2022-06-20,,Dr. Juan Valdez,220.0,Completada
+738fb267-77e0-4d45-9ee7-c573ef989f5f,3000,2024-06-08,Neurología,Dr. Camilo Rojas,180.0,Completada
+095fa581-ccac-4e0a-821e-aa3ff68a6fed,3001,2025-10-11,,,,Cancelada
+fd1c157f-6e2b-4205-818c-c103120c06f7,3002,2024-06-03,Cardiología,Dr. Juan Valdez,,Reprogramada
+e9732ab9-4c4c-456d-b81c-d849d5677f66,3007,2023-11-20,Cardiología,Dr. Camilo Rojas,100.0,Reprogramada
+ef49105a-06cb-460d-b97e-7ce430cc8391,3022,2025-03-19,Neurología,Dr. Juan Valdez,180.0,
+9a3393b5-5219-4f15-b986-2d0a07657a19,3022,2023-03-01,Pediatría,Dr. Juan Valdez,220.0,Cancelada
+85f521e9-768a-46a2-9b3f-874c6e6ac437,3023,2024-04-18,Ginecología,Dr. Juan Valdez,180.0,
+4fbffc46-8636-4451-a456-3490913fab13,3023,2023-12-12,Ginecología,,120.0,Reprogramada
+3d4b8905-4b02-4271-8ae7-340c1288bbdb,3032,2025-09-13,Cardiología,Dr. Camilo Rojas,200.0,
+c6cec345-ac5d-4f86-9c21-8ebf6ba8616a,3034,2024-03-21,Neurología,Dr. Andrés Murcia,180.0,Cancelada
+63e9ae99-13b0-4d3b-adf7-71aa1225f9d1,3042,2023-05-13,Neurología,Dra. Lina Torres,100.0,Completada
+ac887f6b-fd8f-4981-9b26-551939481af2,3045,2024-01-01,Cardiología,Dr. Andrés Murcia,180.0,
+4140cee4-b603-4c24-949b-e99b3b613b8c,3048,2025-02-05,Ortopedia,Dr. Camilo Rojas,120.0,
+8cf1e32c-fdb1-4abc-b1d7-202b9786d48c,3048,2024-02-24,Pediatría,Dra. Lina Torres,100.0,Cancelada
+08768106-d7ff-425b-b7ec-af79b4fe4ced,3052,2023-03-07,Ortopedia,,220.0,
+3499d23f-bd5d-498e-9c0c-6a3742202b77,3064,2025-01-13,Pediatría,Dr. Juan Valdez,100.0,Cancelada
+18514c2c-3ee1-4214-8beb-a546ead74081,3064,2022-10-24,Ortopedia,Dra. Lina Torres,120.0,Cancelada
+fb8cfa51-bef1-4221-be85-d6a55f2f1836,3072,2024-08-24,Neurología,Dr. Camilo Rojas,120.0,Reprogramada
+3f839d98-ac2c-45a3-a14e-1e8accc1b4f5,3077,2022-05-07,Ginecología,Dr. Camilo Rojas,120.0,Cancelada
+bff18bf2-39d5-4849-a439-f56b4f3e542d,3077,2025-11-18,,,200.0,Completada
+66877580-e949-40e3-8267-5c0e7bb6395e,3086,2024-10-18,Ginecología,,180.0,
+0a556efd-1b10-4bd1-b48b-7c61ed52e519,3089,2025-07-28,Cardiología,Dra. Lina Torres,220.0,Reprogramada
+4f81c142-4156-4f9c-ad77-24cddc297475,3093,2022-11-28,Cardiología,Dr. Camilo Rojas,220.0,Completada
+76197b9c-81a9-4da8-a810-2c597e45a212,3093,2023-05-10,,Dra. Lina Torres,200.0,Completada
+454e2706-5b49-43f8-89b9-80629efb2c6b,3098,2023-09-29,Ortopedia,Dr. Andrés Murcia,,
+31afa312-bfa0-4b1d-be91-0e5e7d226506,3104,2025-05-23,Cardiología,Dra. Lina Torres,120.0,Cancelada
+3da0a787-b921-4781-9f17-993a063536f8,3107,2025-06-05,Neurología,Dra. Lina Torres,,Reprogramada
+e2dd9397-5fc7-4ed3-85e9-1ef173b86e20,3108,2025-06-20,Cardiología,Dra. Lina Torres,,Completada
+504b6863-448e-4da0-ade7-035452951ffd,3111,2024-10-05,Ortopedia,Dr. Andrés Murcia,,
+1a4a9e71-628f-4d35-88f9-5b6111bb5e36,3116,2023-03-12,Neurología,Dr. Andrés Murcia,100.0,Completada
+02ef3fbe-9396-44b7-8452-2bf98c24984d,3116,2025-05-17,Cardiología,Dr. Camilo Rojas,,Cancelada
+f6a6b748-7f58-45e2-90dc-b46f58cceaf4,3123,2022-03-21,Ortopedia,Dr. Juan Valdez,200.0,Cancelada
+522a8855-f119-4f24-8d03-a1a36a02e0fa,3140,2025-09-12,,Dr. Andrés Murcia,120.0,Completada
+4c874b9b-46fb-458a-95cb-9d20ceff2238,3144,2025-10-26,Neurología,Dr. Andrés Murcia,180.0,Cancelada
+1d67c0ba-a53e-48b8-b791-ecc57a6056d6,3146,2024-11-18,Pediatría,Dra. Lina Torres,220.0,Reprogramada
+d35a4c11-f77d-4770-8f7a-203ddd229fac,3146,2025-05-19,,Dr. Camilo Rojas,100.0,Completada
+429464e7-db96-4508-b467-37c4db496d60,3150,2022-07-20,,Dr. Camilo Rojas,180.0,Completada
+0693741c-3c9d-4184-8021-10809862f6d2,3160,2023-12-08,Ginecología,Dr. Camilo Rojas,180.0,
+7a1d0e2e-090f-4e31-91f8-8b56dd6238ec,3163,2025-03-15,,,100.0,Cancelada
+aa758e59-5268-4c71-a37e-b85e270cb5a8,3164,2025-03-19,Cardiología,Dr. Andrés Murcia,180.0,Cancelada
+eee06f5b-d0a4-4e9c-b5e7-3442a499b4c1,3168,2025-02-25,Ginecología,Dr. Camilo Rojas,180.0,Completada
+bb9ac140-3ce9-4d20-8819-bbffc2aeaa1d,3170,2022-11-11,Ortopedia,Dra. Lina Torres,120.0,
+4ce9c503-41a1-4808-a932-cd73884a1da4,3171,2022-07-23,Neurología,Dr. Camilo Rojas,,Reprogramada
+2ff68368-24fd-4876-8b72-b2cabd070aa1,3179,2023-04-04,,,100.0,
+984dc080-7112-4f21-9dd6-fc4796600e77,3185,2024-07-27,Ginecología,Dr. Andrés Murcia,,Reprogramada
+5c413e5a-5d6a-4386-b804-24d39b51f613,3186,2024-09-17,Ortopedia,Dr. Andrés Murcia,120.0,
+b711c452-7ed9-4eff-aa11-80891e9c3dde,3188,2025-05-28,Ginecología,Dr. Camilo Rojas,180.0,
+18350a3b-e626-46c5-8ede-a60bd0239a2f,3193,2022-11-03,Ortopedia,Dr. Andrés Murcia,200.0,
+f130124f-9114-4cb7-84f3-adae92cb436d,3194,2022-03-04,Neurología,Dr. Juan Valdez,100.0,
+8ffdcb95-c8df-4eff-bb98-1a77fc4a080c,3195,2025-01-27,Ortopedia,,180.0,Reprogramada
+6a5e88ce-6300-48e7-8fcd-42a0af78901d,3206,2024-11-13,Ortopedia,Dra. Lina Torres,100.0,
+6dadfab1-2dd1-4ff4-8dff-900c8390a788,3206,2024-11-10,Neurología,Dra. Lina Torres,,
+78934264-2bf9-4f32-9ff0-d4b3a2e537ea,3211,2023-07-21,Neurología,Dr. Camilo Rojas,,Reprogramada
+0ce3b0c0-71e8-4761-8fd7-b1537c82bec4,3215,2024-01-24,Neurología,Dra. Lina Torres,120.0,Reprogramada
+6e4674fa-def6-4ec3-a2dd-60ace5846b80,3219,2022-10-26,Cardiología,Dr. Camilo Rojas,100.0,
+acbbbec6-c640-4a16-a6a6-bfdc807c97ff,3220,2023-02-16,Neurología,Dra. Lina Torres,100.0,Completada
+23485f6b-4b37-4e88-a198-fc1888907369,3227,2024-11-02,Pediatría,Dr. Juan Valdez,,Completada
+e2a80d7d-8ed4-4e8d-adec-34d774590ddb,3228,2022-12-08,Cardiología,Dr. Andrés Murcia,200.0,Cancelada
+dc43cf16-6497-4a43-9f5f-d9aa3bdb6f9d,3229,2025-07-14,Pediatría,Dr. Andrés Murcia,,
+13a0f13b-7fb0-4596-aa67-56c40a143f0b,3229,2022-09-19,Pediatría,Dra. Lina Torres,120.0,
+51f48961-f999-496f-917e-ee9faca46b11,3230,2023-11-22,Neurología,,100.0,Cancelada
+a7cdb0e6-4905-4abc-95ac-83acf3e59431,3236,2022-01-23,Neurología,,100.0,Reprogramada
+3b6a82a9-64a0-4d74-9468-5f5641cadb6e,3237,2025-04-07,,Dr. Juan Valdez,,Cancelada
+2e795a6b-e559-4af0-b713-e375866e9148,3241,2025-08-11,Pediatría,,220.0,Cancelada
+3919d65b-3c86-47d9-8a25-fc0bc8694d31,3242,2025-05-18,Pediatría,Dra. Lina Torres,200.0,Cancelada
+f8d35ef3-fd4d-484e-82b5-34a7aa512eb6,3243,2022-11-10,Ginecología,,200.0,
+68acc525-03af-4c72-b12a-248fbeeb8d7c,3249,2024-01-28,Neurología,Dr. Camilo Rojas,220.0,
+b7066fef-f4af-4aa8-ac93-52052b431334,3257,2022-02-03,,Dra. Lina Torres,100.0,Reprogramada
+7ed0c28c-62e9-4edf-8ea5-11b788420ecd,3257,2025-04-11,Neurología,,,Reprogramada
+1d41c531-d465-4a0b-81e1-3556668dfb14,3258,2023-11-24,Ginecología,Dr. Andrés Murcia,,Completada
+16d428ec-402d-4011-a6b0-8600a5804cb9,3258,2022-05-24,,Dr. Camilo Rojas,120.0,Cancelada
+7534e70b-8607-4aeb-bef1-b04412132f9d,3264,2024-05-26,,,100.0,Reprogramada
+704be3bd-671d-4a9d-b0b0-4ad8575175d8,3265,2023-11-26,Ortopedia,Dr. Andrés Murcia,120.0,Completada
+2a90eda2-c30e-4788-aceb-38aeb391e048,3273,2024-10-27,Ortopedia,,,
+fe782319-c3c6-4b6b-836e-33a0b83f39f1,3274,2024-05-06,Cardiología,Dra. Lina Torres,200.0,Completada
+28d1d4e7-4adc-4507-9df3-4c7a9bfa2cec,3275,2024-12-24,,Dra. Lina Torres,,Cancelada
+8e318592-f81a-4872-8d35-193627f687f1,3296,2022-12-18,Pediatría,Dra. Lina Torres,,Cancelada
+ee683a92-8dc5-4210-8968-21d5d91cb399,3298,2024-03-20,Neurología,Dra. Lina Torres,180.0,Reprogramada
+36e32f4c-7eed-4c07-9fe6-f0c851f187d8,3301,2025-12-18,,Dr. Andrés Murcia,220.0,
+72d819c0-7442-4b88-82b7-465fe940c860,3301,2024-05-28,Pediatría,Dra. Lina Torres,,Cancelada
+04bb4d79-606d-453e-b828-e01f49602ed9,3316,2024-04-12,Ginecología,Dr. Andrés Murcia,180.0,Reprogramada
+598543ed-6304-4e19-84c3-7e40714e7f3b,3316,2023-05-08,,Dr. Juan Valdez,120.0,Reprogramada
+cf921d29-f4f9-4d21-a513-098b7b20b3a2,3320,2024-04-14,Neurología,Dra. Lina Torres,,Completada
+0dffc890-17d4-4940-bd30-0a3ce2d15ffe,3329,2025-04-11,Ginecología,,220.0,Reprogramada
+037e410e-ba4c-4d45-9517-3721d44ef674,3330,2024-02-18,Ortopedia,,,Completada
+ae932c7a-b890-49db-8b64-35d90300d0f3,3334,2024-03-25,Ginecología,Dr. Camilo Rojas,100.0,Reprogramada
+087df77e-d84a-402f-ae0e-fc3601d56430,3337,2025-01-05,Ortopedia,Dr. Andrés Murcia,100.0,Cancelada
+bb43bac2-8d8e-4e73-a442-25a9b55a0006,3337,2022-10-20,,Dr. Andrés Murcia,120.0,Reprogramada
+9472068c-193b-41f9-81e8-23ee5dcfb355,3337,2023-12-23,,Dr. Andrés Murcia,,Completada
+05968feb-65bc-41e3-85f8-b5d858743e59,3340,2024-12-25,Neurología,Dr. Camilo Rojas,200.0,
+52e7a6df-2ff4-420d-9f17-cc86f9e0a338,3340,2023-04-14,Cardiología,Dra. Lina Torres,200.0,
+fde121dd-18d9-45e9-8133-8e084aa89c48,3355,2022-08-29,Neurología,,180.0,
+bdca945d-0910-47b5-ac9f-cb14c7346ea0,3356,2022-09-03,Pediatría,Dr. Camilo Rojas,120.0,
+a5fc6437-eb28-453f-a93d-50de368ce516,3357,2022-04-28,Cardiología,Dr. Andrés Murcia,200.0,Reprogramada
+bbdccc42-4a8b-4143-b1be-ba461777b42c,3364,2022-04-12,Pediatría,,200.0,Cancelada
+43558724-8582-4a23-b459-0259dc1bf15b,3374,2025-11-16,Neurología,,100.0,Cancelada
+c3604ff6-8dbb-41a4-bd03-87b90092d96b,3375,2022-03-20,Neurología,,100.0,Completada
+ce556f32-d20b-45f4-9164-ccd43e8854d7,3375,2025-02-10,Ortopedia,Dr. Juan Valdez,220.0,Completada
+964f38c9-e9d3-4ff6-82e7-ee1e49ee7f9a,3376,2025-02-13,Ortopedia,Dr. Andrés Murcia,120.0,Reprogramada
+a9e8eede-4a34-432f-aad2-90806c43a264,3376,2022-10-17,Pediatría,,120.0,Reprogramada
+48b15455-d534-4798-a2aa-2be2fa02fd00,3380,2023-04-23,Cardiología,Dr. Juan Valdez,220.0,Reprogramada
+c643f1b5-dd0e-45ad-bab7-fa32d4aec19f,3380,2022-09-18,Ginecología,Dr. Andrés Murcia,220.0,
+40dc75c7-8565-411f-8b08-2d667c747102,3381,2022-05-14,Ortopedia,,220.0,Cancelada
+44bc35ce-1fc4-4246-a96e-e1193a62e476,3385,2024-08-23,Cardiología,Dr. Andrés Murcia,180.0,Completada
+2a001115-2acf-46cb-8a74-e8615b9dd28c,3385,2025-10-30,Ortopedia,Dr. Juan Valdez,100.0,Cancelada
+f34a44cd-e117-4b51-b66e-9ef266a2dd90,3386,2024-04-20,Neurología,Dra. Lina Torres,100.0,Cancelada
+7b101e84-f53b-4753-ab12-e3c85adc5682,3386,2022-05-19,Pediatría,Dr. Camilo Rojas,200.0,
+fa61bd18-e503-4c61-b2b5-f066e696fcb0,3394,2023-03-15,,Dr. Juan Valdez,220.0,Reprogramada
+58984e0f-0860-4477-9682-78133f7f55f7,3395,2022-01-20,Neurología,Dra. Lina Torres,,
+a643a63a-a5fb-4bb7-a66b-a301a3508480,3399,2023-08-18,Neurología,Dr. Andrés Murcia,100.0,Completada
+be321618-f4e1-4f7b-908f-3eea2174f75c,3399,2025-10-26,,,200.0,Completada
+64d3405a-3946-4993-ada3-5ccb59d2194d,3402,2023-08-14,,Dr. Juan Valdez,,Cancelada
+0ca12f7d-d70a-4fc5-83e4-ca055ec4e9f4,3405,2025-01-03,Ginecología,,120.0,Completada
+ece1dd3e-e8e9-4ac9-969b-df7b09306562,3416,2022-04-04,Ortopedia,Dra. Lina Torres,200.0,
+80a92f40-aa8e-4001-bae6-141b74aa8dc5,3417,2023-06-18,,Dr. Andrés Murcia,220.0,Cancelada
+28419351-99f1-4bb2-bf16-a71931275ccc,3418,2023-05-02,,Dr. Camilo Rojas,220.0,Reprogramada
+0faef953-d79c-4d32-be6e-f99f5e6cf871,3418,2023-05-16,Pediatría,,180.0,Reprogramada
+670a70d4-69a9-4e85-8d57-cdfbcc188533,3419,2024-11-24,Cardiología,Dr. Camilo Rojas,,Completada
+274895b1-6b3f-4c03-a4c6-c2257cbdd3ca,3425,2025-02-16,Pediatría,Dra. Lina Torres,,
+1c717d99-aab3-48d3-b5ec-81dc5ddfa44a,3425,2024-05-03,Ginecología,Dra. Lina Torres,,Completada
+61542cb2-6cba-43dd-b6c8-60e7b48ca19d,3433,2023-09-05,,Dra. Lina Torres,200.0,
+ee237fe0-cbef-486a-b2aa-c7fd5ba6b862,3435,2025-08-26,,Dr. Juan Valdez,200.0,Completada
+2025baa0-1fda-4482-9c71-9ace86c4b0a5,3445,2022-05-13,Neurología,Dr. Andrés Murcia,100.0,Reprogramada
+d0a0bd4c-912d-4a38-9500-a5337852ac2f,3446,2023-07-30,Neurología,Dra. Lina Torres,200.0,Completada
+16cbf72e-8101-414b-9aa1-5d8c88f7bc2d,3460,2025-07-23,Ginecología,,120.0,Reprogramada
+85000946-b11f-4196-8560-ea55989177f6,3461,2024-09-14,Cardiología,Dr. Juan Valdez,,Reprogramada
+4ee2c15c-5346-40af-bd68-f5c7a91d2e8d,3474,2024-06-24,Ginecología,Dr. Juan Valdez,180.0,
+0a3c058c-ead7-428e-83fe-3b9e7b0ff18b,3482,2022-04-19,Pediatría,Dr. Camilo Rojas,,Completada
+909220c5-c0ab-4580-b7cc-ed99ece1ba54,3482,2023-01-16,Ortopedia,Dr. Juan Valdez,,Reprogramada
+1e2bc880-9c74-468f-890b-365610be424f,3484,2025-01-15,Ginecología,Dra. Lina Torres,100.0,Reprogramada
+eef5bdd6-cc44-4f94-935e-2f2255077095,3486,2022-01-09,Ortopedia,Dr. Camilo Rojas,,Reprogramada
+370750c3-2532-430e-937f-b293724f2627,3496,2024-05-23,,Dr. Camilo Rojas,220.0,Reprogramada
+2a07c7f7-ad4a-4733-983d-0be453764794,3496,2023-05-22,Cardiología,Dr. Juan Valdez,180.0,
+a4559eaf-42fd-4197-b9e1-3f8c6f260a2e,3498,2023-04-02,Ortopedia,Dra. Lina Torres,120.0,Completada
+ca98b059-4717-4135-9994-834798ab39a9,3499,2022-04-29,Neurología,Dra. Lina Torres,100.0,
+ea2e2f20-5761-4537-81db-257acdd08d21,3499,2025-05-22,Cardiología,Dr. Juan Valdez,100.0,Cancelada
+0692d347-a2e4-46f5-a212-3d96ab2b57c2,3509,2025-10-11,Ortopedia,Dr. Camilo Rojas,100.0,
+a09189dd-ce38-45b4-9897-e7f0afb847ca,3509,2024-11-24,Ortopedia,Dr. Juan Valdez,180.0,
+686c24e9-ee75-404a-b3a9-5f344f2001fa,3516,2025-12-13,Pediatría,Dr. Camilo Rojas,100.0,Cancelada
+dd98e30a-71c3-4f68-9c26-4ed73c27a98c,3537,2024-08-31,Neurología,Dr. Andrés Murcia,,Reprogramada
+1884ef67-33dd-4d0b-8c0b-66af5b81faaf,3539,2023-06-10,,Dr. Camilo Rojas,200.0,
+cb8802ec-f68e-4558-9e9e-291fdbf27939,3564,2022-01-29,Pediatría,Dra. Lina Torres,180.0,Completada
+bb12d4e1-264a-4b51-b558-00f28191e0b8,3577,2025-08-22,Pediatría,Dra. Lina Torres,,Completada
+3304aee4-569b-4876-8cf7-c757853d9171,3577,2023-11-23,Ginecología,Dr. Camilo Rojas,120.0,
+5dbaeed0-ad99-4bb1-bea0-850d2abf1eb3,3578,2024-10-27,Ginecología,Dr. Andrés Murcia,120.0,Reprogramada
+b34a7b99-7b85-4dd8-96c0-41af620d4344,3584,2025-04-13,Neurología,,180.0,Cancelada
+4cfd39a7-557f-4a92-b3fc-991983c78678,3588,2022-03-27,Ortopedia,Dr. Andrés Murcia,100.0,
+38b3ba14-42d7-4703-8c7d-0be137e4a92c,3590,2025-12-13,Neurología,Dr. Juan Valdez,100.0,Cancelada
+10462cba-04c1-49eb-b60c-1d18014dc8a9,3594,2022-11-08,,,100.0,
+1105e9ee-c66e-4d9e-ab6d-26e5241e70e4,3594,2024-03-04,Ginecología,Dr. Camilo Rojas,,
+ba76b92e-9a94-4694-a029-fe69b5500ce8,3594,2024-10-08,Ginecología,Dra. Lina Torres,,Completada
+d95577fe-6bb6-40ad-90cb-b80674cddba2,3603,2022-04-01,Ortopedia,Dr. Juan Valdez,120.0,Completada
+b0ef201e-a4a8-4a18-92f4-cb437e5ca6e8,3605,2023-11-10,,Dra. Lina Torres,180.0,Completada
+c0f57d2a-1c00-4921-9b70-48f3f0776892,3607,2024-02-15,Ginecología,Dr. Juan Valdez,180.0,Reprogramada
+823dd63e-e412-4ede-bff6-e0ab61931df3,3610,2023-12-23,Cardiología,Dr. Camilo Rojas,180.0,Completada
+8858cbdc-b6a7-4b76-a9aa-18cbe4115231,3616,2022-08-22,Pediatría,Dr. Camilo Rojas,100.0,Cancelada
+f3c61f4f-7c91-45a6-9a84-dacc17b29c6f,3620,2022-06-22,,Dra. Lina Torres,100.0,
+52c9a603-43e5-4aaa-a5cc-f64f00bea3f7,3622,2024-07-16,,Dr. Juan Valdez,,Cancelada
+2acce8a3-b4fd-43f8-90f4-1de99e4ba5cc,3624,2023-02-14,Ortopedia,Dr. Juan Valdez,100.0,
+c4dd2335-a98b-4c88-9ebb-2c8fea83bd3e,3629,2025-05-11,Neurología,,120.0,Completada
+7fcab757-bdda-4d30-90a4-84d057230dec,3639,2023-01-07,Pediatría,Dra. Lina Torres,100.0,
+629aae26-cdc0-4e38-a5b7-c188a8af2011,3643,2024-04-14,,,200.0,Completada
+306e22ac-9f7b-4f6f-a5f6-b34d271688b9,3643,2025-01-06,Ginecología,,180.0,Cancelada
+cd0c2311-97a8-49a9-b55d-21ff80e868c7,3652,2024-01-24,Cardiología,Dr. Camilo Rojas,100.0,Cancelada
+9eb84212-d5b2-4f3d-a0fe-a703636e2535,3680,2023-11-04,Neurología,Dra. Lina Torres,220.0,Cancelada
+a2dac8ab-eb10-4eca-a0db-ecdd09fb6cad,3683,2023-10-27,Cardiología,,,Reprogramada
+f16db852-4ee0-415c-a2ba-678e62b7ea25,3687,2025-08-05,,Dr. Camilo Rojas,120.0,Cancelada
+5f9994a8-d841-4f7f-8f90-b875c9a03667,3697,2025-03-31,,Dr. Camilo Rojas,200.0,Reprogramada
+a4cfa6f5-94b5-48e5-a3ce-625c818927fa,3700,2022-09-02,Ortopedia,Dra. Lina Torres,200.0,Cancelada
+a3442b70-e6b9-4379-8f97-6ca51c9f3ad8,3703,2025-12-31,Pediatría,,220.0,
+726efc92-0262-42bb-90cc-a0b55c710a38,3704,2024-09-23,Cardiología,Dr. Camilo Rojas,120.0,Reprogramada
+a4421bae-2f3b-4edd-8f47-cb25e3732029,3710,2022-03-21,Pediatría,Dr. Andrés Murcia,100.0,
+922675a4-6e4d-48f5-ae1e-8a860e72db48,3712,2025-04-18,Ortopedia,Dr. Andrés Murcia,220.0,Reprogramada
+7fae3b05-f7d9-42c1-a6f1-d5cf36fe4245,3713,2022-03-13,,Dr. Camilo Rojas,,
+f1c1b64f-1a83-4a3b-ba0d-c7fd79336e3c,3722,2022-07-24,Ginecología,Dr. Camilo Rojas,,Reprogramada
+4992f60b-cc5d-4e87-8ed0-c6975f369573,3722,2022-06-18,Pediatría,Dra. Lina Torres,120.0,Cancelada
+32f60bfb-8de4-4af2-a623-9a144d69fd46,3723,2022-01-10,Neurología,,120.0,Cancelada
+8f64c7f1-bf1d-43f6-bf07-cf32d183700b,3726,2024-10-01,Neurología,,100.0,Cancelada
+ce85bcef-ad84-4ce2-aaf4-ddb502bfb0a7,3734,2024-01-16,Pediatría,Dr. Andrés Murcia,180.0,
+06685418-db96-42c5-9d63-5ddbc138bf9a,3737,2023-01-30,Pediatría,Dr. Juan Valdez,120.0,
+8e4900e4-daec-4d4a-a5e9-14bd8dc67aa8,3742,2023-01-21,Cardiología,,220.0,
+fb377976-0fb4-4f9e-8fda-fe23686c31a9,3751,2024-12-22,Neurología,Dr. Juan Valdez,100.0,Cancelada
+24193b89-b1a3-4d2c-99f8-e61f27fcaa5a,3753,2024-05-13,Ginecología,,,
+e24e4322-dece-48d8-b91e-a23ce312f640,3755,2024-10-24,Cardiología,Dr. Andrés Murcia,100.0,Cancelada
+e460ff03-a209-4cdd-8ce1-d82c2228a3ad,3760,2024-09-20,Ginecología,Dr. Camilo Rojas,180.0,Cancelada
+4af028cf-3fda-4650-b06d-8f40fa3a338f,3762,2022-07-31,Pediatría,Dra. Lina Torres,,Completada
+31494a2a-4df4-46a5-b8ca-a78bbc92199a,3765,2025-07-28,Pediatría,Dra. Lina Torres,200.0,Cancelada
+64b430c2-484e-4c1b-a65c-5bbcbb2debc9,3769,2022-02-13,Cardiología,,,Completada
+e88456e9-dc10-4830-9955-dec0fbc05fe0,3771,2022-07-11,,Dra. Lina Torres,,Reprogramada
+8975ed37-df59-4fbc-b7ab-e36d5766b660,3771,2025-04-07,Neurología,,200.0,
+fb0779c1-8f8d-4b6b-919b-d81fda768be6,3783,2025-09-11,Ortopedia,Dr. Camilo Rojas,200.0,Cancelada
+1912590f-24f8-405f-a9bd-a32805089261,3783,2023-02-10,Ortopedia,Dra. Lina Torres,120.0,Cancelada
+9728d48c-e2c5-4c76-9385-b1b3ba9bd017,3783,2024-09-24,Ortopedia,,200.0,Cancelada
+2b5fbe1f-fcd7-4a64-a425-9b6d843b771a,3786,2025-08-30,Neurología,Dr. Andrés Murcia,220.0,Completada
+dadf39df-5710-4f29-9ff6-eeac0fdd4614,3792,2023-07-16,Cardiología,Dr. Andrés Murcia,120.0,Reprogramada
+b079645e-843b-439b-99e3-32cf1964d25b,3792,2024-04-06,Ortopedia,Dr. Juan Valdez,120.0,Cancelada
+cb40e0f2-4e3c-48a5-92ae-646d16e098f6,3801,2022-03-30,Ginecología,Dr. Juan Valdez,,Cancelada
+2fdf991c-8c5c-4f75-91f5-df32fda6c1aa,3802,2025-06-28,,Dr. Juan Valdez,120.0,Reprogramada
+f4541495-8586-442a-a694-805e9aa94086,3805,2023-06-04,Ortopedia,Dr. Andrés Murcia,220.0,
+e6ea1911-2aac-481c-93bf-b19817d0dff0,3805,2023-09-16,Neurología,Dr. Andrés Murcia,,Reprogramada
+5762c9af-e384-4f79-ad34-4024a1755c67,3806,2024-03-25,Cardiología,Dra. Lina Torres,120.0,
+8dd16919-70c7-475f-9c0c-55dd1f6cb147,3812,2025-11-22,Cardiología,Dr. Andrés Murcia,120.0,Completada
+66dc6063-7d57-4d04-a237-659bf0481966,3814,2023-04-17,,Dr. Juan Valdez,220.0,
+539e8777-4c6c-4a50-9a65-56c32e1c10bc,3821,2025-10-22,Neurología,Dr. Juan Valdez,200.0,Completada
+5cc657ac-f0d3-4252-82ab-a415ed27f21b,3824,2024-01-09,,,,Completada
+0c8f9ae7-c5a3-4588-a73c-f09aa32691a3,3827,2022-05-04,Ginecología,Dr. Juan Valdez,120.0,
+99cb5d05-dda6-4a79-99b7-87d126906931,3829,2023-08-05,Neurología,Dra. Lina Torres,,
+ca60562f-bd97-48f0-86c9-ff2169408ddc,3831,2023-04-24,Neurología,Dr. Juan Valdez,200.0,Cancelada
+36d222a4-5769-4c65-ba4e-8eabfb9a99cc,3837,2022-09-16,Cardiología,,120.0,Cancelada
+6a204a77-02da-4f6c-9b56-34284a090cda,3840,2025-02-22,Pediatría,Dr. Camilo Rojas,120.0,Reprogramada
+87f63af9-38b5-4a52-bbcc-b797677f9c6d,3842,2022-05-06,Pediatría,Dra. Lina Torres,220.0,
+c3648614-819a-4023-b5c0-1f2b21747706,3842,2024-10-22,Pediatría,,180.0,
+61806a80-801b-49b3-8149-8efb34473922,3842,2023-04-13,Ortopedia,Dr. Andrés Murcia,120.0,
+fe7ceafc-1e6f-42e9-976a-d9792c1588b6,3847,2025-01-10,Cardiología,Dra. Lina Torres,100.0,Cancelada
+00b55c21-516d-4ce1-b1ac-16411d63c737,3862,2023-11-18,Neurología,Dr. Juan Valdez,120.0,Completada
+2bc42e7b-63bb-4647-93d1-2cf18659d093,3866,2023-03-20,Cardiología,Dra. Lina Torres,220.0,
+1b55f493-db70-4304-9af9-3ca3099f7d8a,3871,2024-04-07,Cardiología,Dr. Andrés Murcia,100.0,Cancelada
+c5ccfdad-9254-4560-b2e1-c251e9a9b812,3872,2024-02-06,Cardiología,,220.0,Completada
+ab570e3b-e2c4-4112-9f67-5da1802bc308,3878,2022-07-18,Pediatría,Dr. Juan Valdez,220.0,
+45170f8a-ccf7-44e8-8094-40970f0bf26e,3879,2022-02-09,,,100.0,Completada
+67b5e288-c4fe-4e12-a14c-326f71432d34,3879,2022-07-05,Ortopedia,,120.0,Completada
+44b7f400-8781-4ee2-a123-7fb44c2dae33,3885,2023-10-21,Neurología,Dr. Juan Valdez,120.0,Reprogramada
+6a1b0515-d036-4853-aaf0-37bfcf4a67a9,3893,2025-01-04,,Dra. Lina Torres,120.0,
+f837b114-3954-4fe3-a088-75713b1412b0,3894,2025-12-04,Cardiología,,180.0,Cancelada
+1990b773-41b8-4cb3-9723-7073cd4d35b4,3894,2022-05-11,,,100.0,Cancelada
+7fcbcfbc-7ac8-4d1b-9834-490712ab185c,3903,2022-08-09,Ginecología,Dr. Camilo Rojas,220.0,Cancelada
+1c6994e8-188c-4269-a2fe-0698565a0302,3904,2022-05-16,Cardiología,,120.0,Completada
+47c01e4c-5e72-4612-8e60-e3327d33fc31,3904,2023-07-19,Ortopedia,Dr. Camilo Rojas,120.0,Completada
+8e1d9c5e-9d09-4dd3-baf6-6109c240386e,3908,2024-09-22,,,180.0,
+5163515e-b08b-4c52-9367-0ea38e5ca847,3908,2024-06-17,Pediatría,Dra. Lina Torres,200.0,Reprogramada
+bbf10ee3-23da-4874-bd23-b26fc7c50828,3915,2022-07-19,Neurología,,120.0,Completada
+acdbb6e2-a645-4d95-9235-a7343913df01,3915,2024-12-11,Pediatría,Dr. Juan Valdez,220.0,Completada
+b417c5be-eeb5-4801-b282-1cc8a29a04d0,3917,2023-01-11,Ginecología,Dr. Juan Valdez,,Reprogramada
+d69ee86b-3423-421f-883e-e15a440ec38d,3917,2023-05-01,,,220.0,Cancelada
+b7d57fef-17df-4ab3-bbbb-b1a21810b003,3923,2025-08-03,Ortopedia,Dr. Camilo Rojas,180.0,
+d278b4b6-bcb7-4684-b224-b2d00bc148e2,3936,2024-06-27,Neurología,Dr. Juan Valdez,,Completada
+203f9bb9-8b00-4cbb-911a-34315f4b8b1d,3939,2024-01-30,Cardiología,Dr. Juan Valdez,100.0,Completada
+2ee01e08-0282-4b84-b21b-d2da3bb8586e,3944,2022-02-15,Cardiología,Dr. Camilo Rojas,180.0,Cancelada
+7fc8bd1a-b83e-4bec-a21f-88d685779aca,3947,2024-11-07,Ginecología,Dra. Lina Torres,220.0,Reprogramada
+a71e45f4-b54a-4d07-986e-be174a2de3bf,3947,2023-05-04,Neurología,Dr. Juan Valdez,,
+2c4e4c09-8be4-41a2-850e-de5885aecee2,3950,2023-04-05,Cardiología,,180.0,
+1c240e2a-9eaa-43be-aadb-12c6fa6db687,3951,2022-11-18,,Dr. Andrés Murcia,,
+39799f91-aaa3-45f8-8686-6e9d584b17fb,3951,2023-10-29,Pediatría,Dr. Camilo Rojas,100.0,
+60f540b3-674e-4632-813a-d59176e12b08,3955,2024-06-18,Pediatría,,,Reprogramada
+cb92bde5-4856-4229-ae20-61c947fc982b,3959,2024-01-29,Cardiología,Dr. Juan Valdez,100.0,Cancelada
+1347108a-5b83-4f58-81f6-44d0096856c5,3961,2023-03-03,Pediatría,Dr. Juan Valdez,,Cancelada
+1abe7cc3-8218-40a6-a8b2-0fcd62f0f54b,3967,2022-05-24,Ortopedia,Dr. Andrés Murcia,120.0,Reprogramada
+542014f3-fcab-4848-9087-07c72a139486,3969,2024-09-12,Ginecología,Dr. Camilo Rojas,,Cancelada
+f2cd2c43-0e4e-4207-a961-6dcc4cc9c35c,3981,2023-12-15,,Dr. Juan Valdez,220.0,Cancelada
+92039aba-d423-42ff-a7d5-d38a3d7a78bf,3981,2024-01-03,,Dr. Camilo Rojas,100.0,Reprogramada
+e278cba8-fda2-4167-b0bd-4059853d79e4,3985,2024-02-25,Ginecología,Dra. Lina Torres,200.0,Cancelada
+01269b2c-0320-4a2b-9826-034f1471ccab,3988,2024-07-05,Ortopedia,Dr. Camilo Rojas,120.0,
+f02af3b9-7b06-4f7b-940b-0801630e7869,3988,2025-02-19,Pediatría,Dr. Juan Valdez,220.0,Reprogramada
+b5ba3503-1df2-4652-a569-5b7395e5629b,3988,2024-06-26,Ginecología,Dra. Lina Torres,180.0,Reprogramada
+0d931567-2727-4c06-88a5-04e714dcd636,3997,2022-04-04,Ortopedia,,200.0,Completada
+7f20b457-e25f-4750-8a5a-3d48ae681cea,3998,2022-10-14,Neurología,Dra. Lina Torres,200.0,Reprogramada
+a414aa18-65e0-402e-8ded-fbc719aa77cf,4004,2024-03-05,Ginecología,Dr. Juan Valdez,120.0,Reprogramada
+91a69d1b-d934-42ea-9634-4e8562592984,4007,2025-09-26,Ortopedia,Dr. Andrés Murcia,120.0,Reprogramada
+c428ea39-9e99-4b16-984b-59ed823f9d9f,4016,2022-10-08,Ortopedia,Dr. Juan Valdez,120.0,
+43775c7f-0739-4a01-b2d4-4f73f7668c97,4016,2024-02-26,Ortopedia,Dr. Camilo Rojas,120.0,Completada
+df2fe810-39bd-4667-bdfc-d28a1d85d2be,4019,2023-07-15,Neurología,,200.0,
+2b42ece7-aa84-4593-886e-20e6af32e650,4020,2022-04-14,,Dr. Juan Valdez,100.0,Completada
+bf20ac85-1a01-4e58-974b-16de7d62130c,4020,2023-05-15,Pediatría,,220.0,Cancelada
+785af68f-5726-4927-b507-ffd4012dc8f7,4022,2024-09-05,Pediatría,Dr. Camilo Rojas,220.0,Completada
+3ba67a19-c58f-4275-b6a2-9039c0256947,4023,2023-01-16,Ginecología,Dr. Juan Valdez,120.0,
+17f034a4-88fc-4c02-b017-b7ff19d47c5c,4023,2025-07-14,Pediatría,Dr. Juan Valdez,200.0,
+9275e46f-02d8-41a6-84b7-268ff3d3a234,4033,2024-03-03,Pediatría,Dr. Andrés Murcia,,Cancelada
+2b8a7e06-d198-4cba-ac6f-63404cd55a1a,4049,2023-11-06,Ginecología,,200.0,Completada
+f57f9b41-cb84-4878-ad7f-39a37e854d6d,4049,2024-03-29,Cardiología,Dr. Juan Valdez,120.0,
+69cd7917-1b5a-4725-aed2-3fe3ea8d5bc1,4052,2025-05-30,Cardiología,Dr. Juan Valdez,220.0,Completada
+e4f0813f-124b-4960-8351-0a47be913270,4053,2024-12-13,,Dr. Juan Valdez,120.0,Reprogramada
+31457d3c-14c5-47a5-b902-81ea00a7715f,4057,2025-01-06,Ortopedia,,100.0,Reprogramada
+e4505c25-48fe-4108-a191-08507be89920,4068,2022-04-14,Pediatría,Dr. Juan Valdez,120.0,Reprogramada
+eae8a611-b2b8-4b8f-95bd-323780ba6675,4071,2022-08-17,Pediatría,Dra. Lina Torres,120.0,Reprogramada
+aef93c3f-cc07-48ba-90a7-785ae9acf026,4071,2022-10-03,Neurología,,,Cancelada
+2ac377eb-638b-47eb-b932-c9cee624ba54,4074,2022-10-12,Neurología,Dr. Camilo Rojas,120.0,Reprogramada
+ddea0400-aeb0-40b1-bbd2-5fb75b977047,4074,2022-05-28,,Dra. Lina Torres,180.0,Completada
+78524be7-d7a6-4ccc-85a6-9b16fccd73af,4075,2023-08-02,Neurología,Dr. Andrés Murcia,200.0,Completada
+5a888441-0326-43db-9a47-9a42440571e7,4085,2024-04-20,Cardiología,Dr. Camilo Rojas,200.0,Completada
+c61aa958-4c54-43ef-a105-41eba22c08a8,4090,2025-04-21,Neurología,Dr. Juan Valdez,220.0,Completada
+cf035544-f378-4782-8b22-b03be55de7c0,4105,2023-08-10,Ortopedia,Dr. Camilo Rojas,220.0,Completada
+ce6364b2-3eda-4119-aac1-d1fa2c1085a2,4105,2022-04-25,Cardiología,Dr. Camilo Rojas,200.0,Completada
+7928602a-7528-4daa-8718-7e333fa59ba8,4107,2024-12-15,Cardiología,Dr. Juan Valdez,220.0,Reprogramada
+99c93507-0523-4bc6-a0e4-35a9cd8a3433,4110,2025-09-14,,Dr. Andrés Murcia,180.0,Reprogramada
+3416c51d-1787-4f96-ab95-7887bd771c4f,4110,2025-03-20,,,220.0,Cancelada
+2d06d7ca-c11a-494e-b861-865ae2b6e579,4113,2022-07-01,Neurología,Dr. Juan Valdez,180.0,Reprogramada
+f4aa6918-e3db-4c37-91e3-c120143c2c44,4115,2022-01-07,Pediatría,Dr. Juan Valdez,,
+fd25247b-e90a-4849-b404-3cff8829af74,4116,2023-04-28,Neurología,Dra. Lina Torres,,Completada
+89dc5149-c971-4772-ae72-5a4c60a24bc7,4122,2024-04-27,,Dra. Lina Torres,120.0,Cancelada
+c93e97a9-bc06-4a25-a08b-d306d5dddb91,4122,2024-11-07,Ortopedia,Dr. Andrés Murcia,,Completada
+a5623d06-99e8-44f6-83fb-66e15aa340cc,4128,2022-06-10,Ginecología,Dra. Lina Torres,120.0,
+cc8d52bf-4e2b-4bcd-a6c7-d961bccc60ff,4132,2025-06-01,Ortopedia,Dr. Juan Valdez,120.0,
+c715690d-f126-45d7-a0fa-034d45f1635a,4134,2025-12-08,Neurología,Dr. Juan Valdez,200.0,
+c30d5e2c-cd9b-4ea6-b96f-40b49d9cedfe,4134,2024-11-23,Pediatría,,,
+21a8e320-1b27-435b-9adb-19134b9a8e20,4134,2025-09-25,Ortopedia,Dr. Juan Valdez,,Reprogramada
+13a4baa6-7563-4857-bfbd-6aa85927ffee,4141,2025-01-06,Neurología,Dr. Juan Valdez,220.0,Reprogramada
+b636dff1-da22-48f5-bc99-1a301ab50dd5,4145,2023-04-21,,Dr. Andrés Murcia,200.0,
+922b0191-750e-40c8-9620-d04072588ae3,4147,2024-11-03,Ginecología,Dr. Juan Valdez,120.0,Reprogramada
+19547a8d-4808-4d38-bf2d-c4ced0a32197,4149,2025-04-07,Cardiología,Dr. Juan Valdez,200.0,
+44192bfd-f891-42cf-93ea-27b6afaf8508,4154,2023-10-05,Ginecología,Dra. Lina Torres,,
+f0a1b6bc-ae3a-4b0c-8ea4-f5fa77cc069a,4154,2025-11-21,Ortopedia,Dr. Andrés Murcia,220.0,
+9be78313-19fa-4d49-b671-70ff6319cf05,4169,2022-01-31,Ginecología,Dr. Juan Valdez,,Cancelada
+0835ab79-38cd-4b9d-9bc6-5e9543e2f533,4172,2023-05-13,Pediatría,Dr. Juan Valdez,100.0,Completada
+722f8856-1c27-425d-b480-b68de0c7100d,4174,2022-05-08,Pediatría,Dr. Camilo Rojas,200.0,Completada
+fe4db0f9-c6e8-4baa-9036-a36045377916,4174,2024-10-05,Cardiología,Dr. Camilo Rojas,200.0,Completada
+e06c7672-2c33-4b00-911f-afa44a02aad9,4180,2022-08-24,Ortopedia,Dra. Lina Torres,180.0,Reprogramada
+6fe65e67-9087-4952-870f-8fd414262f44,4183,2022-05-01,,Dr. Andrés Murcia,180.0,Reprogramada
+113c3072-a5c5-4901-85d7-497de0a83ca1,4194,2022-05-24,Ortopedia,Dra. Lina Torres,180.0,Reprogramada
+22c1a4f8-1bc1-44e6-bb7e-8615209cf982,4195,2024-11-25,Cardiología,Dr. Camilo Rojas,180.0,Reprogramada
+adc9712b-8095-4148-acfb-004f3c247911,4195,2023-12-15,Ortopedia,Dr. Juan Valdez,200.0,Completada
+7e066475-2741-48f9-8cfe-173d5c68b539,4213,2022-07-31,Ortopedia,,100.0,Cancelada
+34d7066b-bd96-4574-85b0-76d51a47ba79,4221,2025-05-31,Ginecología,Dr. Juan Valdez,220.0,Reprogramada
+bb416674-bf8a-4c07-bc65-c87d7250d9ec,4225,2022-10-20,Neurología,Dr. Andrés Murcia,100.0,Completada
+03e7b8b1-e775-4041-a1d2-4e96b9b97ef8,4229,2023-10-24,Pediatría,,200.0,Reprogramada
+f727a8f2-dc27-4aa9-b277-39d9cae3e676,4233,2025-08-29,,Dra. Lina Torres,180.0,Completada
+84301a1a-0233-4b34-9d8b-72a05ae5ed70,4239,2025-07-28,Ortopedia,,120.0,Reprogramada
+5740d7a0-94f8-41be-b140-c43ce2da5746,4246,2025-01-01,,Dra. Lina Torres,100.0,Completada
+6a349809-c98f-4957-b151-679c3ee10d78,4249,2024-06-20,Neurología,Dra. Lina Torres,,
+82ddcbc3-1534-4dcc-8cfe-5bab0d814c41,4250,2022-09-01,Cardiología,Dr. Juan Valdez,180.0,Cancelada
+c9a8ed6c-c20d-49e2-8c5e-3a3b51cf0804,4251,2022-07-01,,Dra. Lina Torres,,Cancelada
+32e5a9ed-e6eb-4ff8-b912-2cdac8970c1d,4252,2022-11-30,Ginecología,Dr. Camilo Rojas,120.0,
+78de8369-62ae-46c0-93ad-31dc65e7c2d9,4252,2023-04-16,Ortopedia,,220.0,
+ed879f14-456d-40b1-96b2-05638a593dff,4259,2025-07-05,Cardiología,Dr. Juan Valdez,200.0,Cancelada
+e147b07f-8b86-4495-b751-5a8d39e240c0,4264,2022-05-21,Cardiología,Dr. Juan Valdez,100.0,Completada
+64e5ba98-d9f3-43e2-b573-0132e97d282e,4270,2023-11-26,Neurología,Dr. Juan Valdez,,Completada
+02bc536a-9de8-4ca6-a207-e11985040dfb,4276,2025-11-24,Neurología,,,Reprogramada
+5a397e44-a8c2-49d5-9cfe-cce85472685b,4290,2025-05-29,Neurología,Dr. Camilo Rojas,200.0,Completada
+fef21ccb-a7e4-44df-a1c3-c4f28ed46fd3,4295,2023-04-30,Neurología,Dr. Juan Valdez,200.0,
+03fb09d2-8b59-4094-8f7d-f4f458a06f2b,4296,2023-09-14,Cardiología,Dr. Andrés Murcia,120.0,Reprogramada
+711cf178-264e-44e5-ad36-9e396af19389,4300,2024-08-17,Neurología,Dr. Andrés Murcia,220.0,Reprogramada
+955fc04f-b913-4f3e-88e1-893c3c52a0ac,4304,2024-08-25,Ginecología,Dr. Camilo Rojas,100.0,Reprogramada
+0c267662-020c-4611-b59b-4fbb906eb7cf,4309,2023-07-14,Ginecología,Dr. Andrés Murcia,220.0,Completada
+04a7e9bd-b118-4204-b42b-c2c07b34f400,4319,2024-04-16,Ortopedia,Dr. Camilo Rojas,120.0,Reprogramada
+da5ce931-c890-44cc-8d59-7db0393fcfb1,4329,2024-06-09,Pediatría,Dr. Andrés Murcia,220.0,Completada
+4236d874-f6c0-4f10-8f97-1cc227bfe706,4329,2024-11-14,Neurología,,,
+8c685c21-9f51-4573-9666-45a0d66b234a,4330,2025-12-03,Cardiología,Dr. Juan Valdez,100.0,Reprogramada
+0d73e507-f444-4fe0-b62a-a8c96d74d3f1,4330,2022-05-10,,Dr. Camilo Rojas,,
+ae555e42-7214-4b66-af89-881776025812,4335,2024-01-27,Cardiología,Dr. Camilo Rojas,120.0,Completada
+589f5bee-7cb4-45fa-83a9-53d1e8da9566,4338,2024-12-23,Ginecología,,220.0,Completada
+493dc41e-457e-43cd-a321-537752fb8b64,4338,2025-07-26,,Dr. Camilo Rojas,200.0,
+367ffc82-e21a-4d13-bda8-03c3c6d65dca,4339,2023-09-15,,Dr. Juan Valdez,180.0,Reprogramada
+c5401af2-d14a-4119-9704-73ea170ad5ca,4339,2025-11-17,Cardiología,Dr. Camilo Rojas,,Completada
+ac48e22d-f293-4451-9d09-9617762912f5,4342,2022-09-27,Neurología,Dra. Lina Torres,200.0,
+6fccef37-6116-4c19-9ec2-4c8a76220d07,4347,2022-04-02,,Dr. Juan Valdez,120.0,Cancelada
+df2aacc8-8ffb-4808-a564-d0fe1b673ea4,4348,2022-01-05,Pediatría,,180.0,Cancelada
+b2822b21-b5f9-4ce7-90db-a33c58a0f744,4358,2022-07-22,Pediatría,Dr. Andrés Murcia,200.0,Cancelada
+0d355870-d639-4f63-a3ed-46b2bdac7272,4360,2025-09-04,Ginecología,Dr. Camilo Rojas,220.0,Cancelada
+4bdeb294-4c09-4e6d-b9ca-41785fe60994,4362,2023-07-26,,Dr. Camilo Rojas,100.0,Completada
+6e42d880-eda1-4837-bbe4-5f288c707d8b,4366,2025-08-17,Neurología,Dra. Lina Torres,220.0,Reprogramada
+db7a09fa-7df0-48f8-a443-6c01fe37446a,4368,2025-06-06,Ortopedia,Dr. Andrés Murcia,220.0,
+1d8ecc08-a128-48dc-a4aa-ff8b46e46ce5,4371,2024-02-05,Ortopedia,Dra. Lina Torres,,Completada
+8e1a8587-f233-424d-9b92-82092bb50e4e,4374,2024-01-30,Cardiología,,200.0,Reprogramada
+17eb81c9-6ef4-4135-887d-93e09bfb3102,4377,2025-01-23,Ginecología,Dr. Juan Valdez,220.0,Completada
+2ad29982-e57d-416d-a422-daa1bc46db06,4379,2025-05-19,Pediatría,Dr. Camilo Rojas,180.0,
+afbc8acb-0384-425d-af70-8ddf935aeb1c,4379,2023-04-12,Pediatría,Dr. Juan Valdez,180.0,Cancelada
+534d90f2-4d0e-4288-bf7f-0f0b99827bae,4382,2025-06-02,Ortopedia,Dr. Camilo Rojas,100.0,
+4df9df44-86be-4b99-b0fc-b2045208fa4b,4382,2022-05-05,Neurología,Dr. Andrés Murcia,220.0,
+d30c48cd-45ab-4aad-a39c-9062f2c09bca,4385,2022-11-14,Pediatría,Dr. Juan Valdez,200.0,Reprogramada
+3cf0ef44-a2ee-4ea9-9f5b-8e9a8c14242b,4385,2023-12-16,Ginecología,,200.0,
+e1a52209-331b-4479-bbb5-56ad3c58c993,4391,2024-06-16,Neurología,,120.0,
+4a6c1409-f0d9-454f-bb23-8ef825b9fd14,4393,2024-07-17,Neurología,Dr. Camilo Rojas,100.0,Cancelada
+d3feb8df-d635-48e8-82aa-b64a5569b4ac,4393,2023-12-05,,Dr. Andrés Murcia,100.0,Completada
+492b4036-4a3c-4822-bfa8-410346db6524,4394,2024-07-06,Pediatría,Dr. Andrés Murcia,120.0,
+9e4d8c64-ccf8-4e9a-b724-8c98e4cc1a1a,4413,2025-07-26,Pediatría,,,Cancelada
+dd6c3334-0294-435e-8ab4-a131bd52cb53,4422,2024-12-14,Pediatría,,200.0,Cancelada
+924f311c-672d-4649-b116-2a2858350d5a,4422,2024-10-23,Ginecología,Dr. Juan Valdez,200.0,Reprogramada
+f8fc5ba6-2ce2-4a4d-a341-2b5767ef1917,4426,2023-05-09,Ginecología,,200.0,Completada
+310e729a-14a4-4a65-9c2c-fb09ec7d7176,4431,2022-02-12,Cardiología,Dr. Camilo Rojas,180.0,Completada
+45c092a1-5289-4d4f-9d62-047ab25ca657,4432,2022-03-13,Ortopedia,Dr. Camilo Rojas,180.0,Completada
+a5a63362-2419-485b-bf44-2b2e40de8f49,4432,2023-10-01,Neurología,Dr. Juan Valdez,180.0,Completada
+a5ccbb90-52b3-4cad-ace5-074f5ce0670c,4438,2023-08-19,Pediatría,Dr. Camilo Rojas,220.0,Completada
+a78999b6-1db9-4422-b929-8eb8aac58efe,4441,2025-02-18,Neurología,Dr. Juan Valdez,,Completada
+ed88f51e-fac7-43ef-9f40-3bcaa2dfb104,4441,2022-07-26,Ortopedia,,120.0,Completada
+ba224287-e6e0-45d9-989b-db57baa448e7,4459,2025-06-26,Pediatría,Dr. Juan Valdez,200.0,Cancelada
+7f7addc0-d587-4db9-8f95-82cb0693a3ef,4461,2025-01-25,Pediatría,,180.0,Cancelada
+0ac72930-8745-45fc-94db-7c3ddef924fb,4462,2024-01-15,Ginecología,Dr. Andrés Murcia,200.0,Reprogramada
+8c95a560-0fa7-4b37-bfa1-71cadde280b3,4465,2024-10-02,Neurología,Dr. Camilo Rojas,200.0,Completada
+2dcb8727-e4a7-4d7d-81f3-d65de4635bca,4468,2024-10-12,Ortopedia,,,
+5485405b-abdb-4ec7-afbd-df1237fe72f7,4470,2025-10-30,,,120.0,Cancelada
+58fb3b34-03a7-42da-bf9f-357c92661671,4470,2025-12-09,Ginecología,Dr. Andrés Murcia,120.0,Cancelada
+3579a2b2-85cc-406c-ac31-9a987556b8da,4475,2022-06-09,Neurología,Dr. Juan Valdez,220.0,Cancelada
+b8522dee-0493-47ef-b07a-03ca1b6825f9,4476,2022-05-14,Cardiología,,120.0,Cancelada
+9df1ee13-e78c-4306-af86-0cc49be9beb0,4476,2023-05-10,Neurología,Dra. Lina Torres,,Cancelada
+f786fd97-23df-4fbb-b2f0-305501f90c49,4477,2025-06-28,Ortopedia,Dra. Lina Torres,220.0,Reprogramada
+20617142-a099-441a-b1e3-cd568e027b57,4483,2025-12-03,Ortopedia,Dr. Camilo Rojas,120.0,Cancelada
+b29d1e5c-2c0c-472d-a5f3-28cc3952e1a0,4486,2023-01-19,Ginecología,Dr. Andrés Murcia,220.0,Cancelada
+eb8a2cf3-c447-4afc-8de1-66201cd8e818,4488,2025-01-29,,Dra. Lina Torres,180.0,Cancelada
+d87290f1-ad13-4849-bc4d-494d0007115b,4493,2024-10-07,Ortopedia,,120.0,Completada
+f2e0929f-b998-42df-9077-c3e8a97331ea,4494,2022-06-07,,Dr. Juan Valdez,120.0,Completada
+63159d57-cec4-466e-8607-38fc55c2136a,4497,2022-12-04,,Dr. Juan Valdez,220.0,
+e93f0c0c-e7d7-465a-af8d-cab11b1bb666,4499,2022-01-29,Ginecología,,,Reprogramada
+00c767e0-ab41-48bb-b9f0-8d3e33d183f0,4509,2023-10-11,Cardiología,Dra. Lina Torres,100.0,Reprogramada
+4ced74ac-593f-461a-92f0-d35ad53a845c,4513,2022-03-29,Neurología,Dr. Andrés Murcia,,
+53afb190-9e64-4c68-8f47-e8ffd171e2e8,4513,2024-07-08,Ginecología,Dr. Andrés Murcia,200.0,Completada
+5def2a20-035e-48b7-926f-4ad2c0e351f0,4517,2025-03-26,,Dr. Juan Valdez,200.0,Cancelada
+f8c5af16-99a9-45d9-bdba-07a221f5b427,4526,2022-09-03,Neurología,Dr. Andrés Murcia,200.0,Reprogramada
+a3e4775c-e41e-41b3-8b54-5e99087e1f00,4528,2024-07-10,Neurología,,,
+104506f2-5843-4f83-8495-f02056e3834f,4529,2024-01-09,Ortopedia,Dr. Juan Valdez,120.0,
+cb4cdc9e-5923-4306-9b3d-e56adce11708,4536,2022-02-01,Pediatría,Dr. Camilo Rojas,,Cancelada
+16b161ab-af44-408b-aa37-54b99010c6df,4537,2025-04-02,,Dra. Lina Torres,180.0,
+c500ec3f-dfa4-490d-a836-59222ec49556,4538,2023-10-27,Neurología,Dra. Lina Torres,100.0,
+38ba33c0-4df6-4fb7-8479-0ad44856fb60,4538,2023-07-07,Cardiología,Dr. Camilo Rojas,100.0,Cancelada
+9d791182-310d-49f7-8889-1f255f949638,4541,2022-03-31,Ginecología,Dra. Lina Torres,120.0,Cancelada
+de56a458-8364-4621-b83b-27a0d9a745ab,4545,2022-08-27,Ortopedia,Dra. Lina Torres,120.0,Completada
+b52d7dc9-30cc-471b-b0b0-714ea33dc498,4546,2022-05-02,Pediatría,Dra. Lina Torres,100.0,Completada
+7fcff3b8-e067-4b80-a57d-af4abfdc9004,4551,2024-04-25,Cardiología,Dra. Lina Torres,,Completada
+a995bd8a-143f-4eba-899e-7d5557030c23,4551,2024-01-10,Ginecología,Dr. Andrés Murcia,180.0,Cancelada
+550308ce-7802-41ea-9238-31e78b835527,4552,2024-11-30,Ginecología,,,
+fcc200f6-9f55-43a0-bbbb-e6e0dd5bb8b9,4553,2022-09-28,Neurología,Dra. Lina Torres,100.0,Reprogramada
+ab76269d-50b1-490f-9db9-c570d7fd3686,4559,2023-12-10,Ginecología,Dr. Camilo Rojas,120.0,Completada
+d47ae762-5213-444d-8e95-e1fca0816666,4562,2022-05-29,Pediatría,Dr. Juan Valdez,,
+754c6b5a-693b-48c5-af89-abf1f6021ac9,4563,2022-01-28,Neurología,,180.0,Completada
+2a5c32a1-d792-4828-8560-7da6346aa6a8,4567,2024-02-08,Ginecología,Dra. Lina Torres,100.0,Cancelada
+65b4e9a9-7519-40c5-bf57-2bb64d9f7c05,4570,2022-12-12,Cardiología,Dr. Andrés Murcia,220.0,Cancelada
+fddfa2b0-19a2-41df-a5cd-6d80b8c4417c,4570,2024-06-17,Cardiología,Dr. Juan Valdez,100.0,Cancelada
+2d41b40d-e130-4455-a4f2-67a85cc2a0bf,4575,2025-04-30,Pediatría,,220.0,Completada
+37deb373-36b4-4768-9494-112a48781dc2,4575,2023-03-30,Neurología,Dr. Camilo Rojas,,Reprogramada
+12f6a8b0-d8de-4bd8-9faa-4ed3e16316d2,4576,2025-06-19,Pediatría,,220.0,Reprogramada
+f3936dd6-9ba7-44e0-9844-882c525e66b5,4579,2023-12-05,Pediatría,,100.0,Completada
+08467133-3570-486c-8540-bb18be444eb8,4582,2023-03-14,Neurología,,180.0,Reprogramada
+924bf828-f3d3-4d6e-a078-c68988ffd3b1,4582,2024-10-05,Cardiología,Dr. Juan Valdez,220.0,Cancelada
+799863c7-6515-40f9-be99-d95a59141e66,4582,2023-01-05,Cardiología,Dr. Andrés Murcia,,Completada
+4dc3ae5b-40fe-43ab-a9e4-319948b76127,4584,2025-06-04,Cardiología,Dr. Andrés Murcia,120.0,Reprogramada
+32201067-0a2c-479f-ade8-fe5efd6d45a3,4586,2022-10-16,Neurología,Dr. Camilo Rojas,,Reprogramada
+110dc5d0-3f8b-4665-9548-1898228214c1,4586,2023-04-29,Neurología,,120.0,Cancelada
+a7c4cf19-b45c-441b-9d6e-9a3915509fe5,4587,2025-05-13,Ortopedia,Dra. Lina Torres,100.0,Cancelada
+b39d130c-b342-4b32-8344-987acae39d78,4590,2023-09-19,Ginecología,Dr. Juan Valdez,120.0,Completada
+2c2a053a-6b3e-48f9-aaf2-56619935c99c,4591,2024-08-17,Ortopedia,Dr. Camilo Rojas,120.0,
+71671f05-0dcb-472b-ab1c-e38b0450a4c3,4592,2024-12-25,Cardiología,Dra. Lina Torres,180.0,Completada
+9b157aeb-e9da-4937-9547-310f3f98d96d,4602,2025-03-17,Ortopedia,,200.0,Cancelada
+c4b12e67-f87c-4d6e-883e-04ca2b411d72,4604,2023-03-10,Ortopedia,Dr. Andrés Murcia,100.0,Cancelada
+87d4f9ce-3049-485e-b6ef-ae33d2c2210e,4606,2023-06-10,Pediatría,,180.0,Reprogramada
+5995a287-e8d2-49e1-9259-7af806a0eadb,4606,2025-08-27,Ortopedia,,200.0,Completada
+b02d58a7-76de-4285-9131-be39708a5d02,4618,2024-03-21,,Dra. Lina Torres,220.0,
+5e04874a-e7b3-499f-9117-2b4695ad8685,4619,2023-01-15,Ginecología,Dr. Juan Valdez,200.0,Cancelada
+825670fa-d67b-48b7-8c68-894af15d7a54,4619,2024-02-28,Neurología,Dra. Lina Torres,120.0,Reprogramada
+fc822adf-0cae-41e4-8faa-07278b4513fc,4619,2025-05-11,Pediatría,,100.0,
+bc2ba7a2-e18a-4cdf-ae4a-5ebd4188f3a5,4631,2022-02-13,Ginecología,Dr. Andrés Murcia,220.0,Reprogramada
+4775d32e-ef02-472c-bfe1-c54971a0ac5c,4632,2022-12-13,Cardiología,Dra. Lina Torres,180.0,
+e245ce87-cc1d-4599-8a38-d3de9c9cfb58,4633,2023-03-04,Pediatría,Dr. Andrés Murcia,,Cancelada
+13f8cf04-f8a9-43c6-b164-dc90f7ca1db5,4641,2022-11-30,Ortopedia,,220.0,
+3700a48f-8998-4c00-a946-2190e59bd3de,4645,2023-12-14,Cardiología,,220.0,Completada
+7f17552b-1365-4667-bb60-9252824e0cd8,4654,2024-07-13,Pediatría,,120.0,Reprogramada
+252fec97-de6f-4ba6-a196-01ea82658730,4659,2022-08-06,Ortopedia,Dra. Lina Torres,100.0,Cancelada
+ea720e4f-c03d-4bba-ba57-f4699c6a8b13,4668,2023-02-04,,Dr. Juan Valdez,120.0,Completada
+08af9598-0e78-47ba-b762-877847fcfa94,4681,2024-05-07,Cardiología,Dr. Juan Valdez,200.0,Completada
+39dff7cd-1f94-4a73-9c45-6126e3c3c118,4682,2025-02-28,,Dr. Juan Valdez,200.0,Completada
+d25fab75-84c0-4bb1-a380-fe4550f88dde,4683,2022-01-14,Cardiología,Dra. Lina Torres,100.0,Completada
+d1b3e05f-0613-4f7d-b7d4-bd095a05b4b0,4691,2024-06-28,Cardiología,Dr. Andrés Murcia,100.0,Cancelada
+d8ca17b2-bc80-4a1e-bcf2-f0e573d48796,4695,2022-01-09,,Dr. Andrés Murcia,180.0,Completada
+61cb7c08-9c87-4ecc-8d77-efd7ce336b4e,4702,2024-10-10,,,100.0,
+ee924e48-ea2d-4139-8a1f-e9e4a869f10e,4714,2022-05-02,,Dra. Lina Torres,120.0,
+5554dd42-a06e-4b49-8537-35a5f3ce4dd9,4724,2022-12-12,Ortopedia,,180.0,
+fed90fc6-6b29-4c26-aff5-53a2743fc9ca,4729,2023-01-24,Ginecología,Dr. Juan Valdez,180.0,Cancelada
+8b94f005-2377-4085-94d2-43655dd854f7,4729,2023-02-02,Neurología,Dr. Juan Valdez,,
+f552d096-ac29-4fc0-9ae3-219b1c313249,4731,2023-06-23,Pediatría,Dr. Camilo Rojas,180.0,Reprogramada
+1a1d1325-f576-4beb-8c2f-17fa6ef6a4fa,4753,2023-10-10,Neurología,Dra. Lina Torres,,Reprogramada
+d4ed158b-b335-4791-856a-26acab2a37c9,4754,2022-09-01,Cardiología,Dr. Andrés Murcia,120.0,Reprogramada
+b4bec9c0-29fe-4f14-8f16-f5225b0b2463,4767,2023-08-22,Pediatría,Dr. Juan Valdez,220.0,Completada
+dc47192d-6d4c-44cc-8317-81e4e468f6b1,4770,2025-09-14,Ortopedia,Dr. Juan Valdez,,Completada
+224cc31b-b0cb-45a9-bfc8-f8d5b2d8787c,4781,2022-02-15,Ginecología,Dr. Camilo Rojas,180.0,Completada
+d22d6271-5854-42cf-8202-f063b0874bda,4784,2024-05-08,Cardiología,Dr. Juan Valdez,220.0,Completada
+03ced426-33db-43ae-a9af-6c4dc962b5d4,4787,2023-04-14,Neurología,,220.0,Cancelada
+aeb85b76-c2ff-4d4b-bce5-10a97f1655d5,4799,2023-04-25,,Dr. Camilo Rojas,,
+3a39e64e-7246-4eee-b648-aa1864338931,4803,2025-03-07,Neurología,Dr. Camilo Rojas,200.0,
+681ec1d8-b64d-4aed-9c77-cb1044de41cc,4806,2023-04-02,Cardiología,Dr. Andrés Murcia,180.0,Completada
+bd5d91f9-95ab-49e0-a488-b7834a02ce58,4807,2025-02-11,Ortopedia,Dr. Juan Valdez,100.0,
+5ec3100a-b8de-46b6-b05b-e1899cdcfea7,4807,2025-10-20,Cardiología,Dra. Lina Torres,120.0,
+a70e76b8-2955-4f64-a6b7-9dd8e96aad83,4807,2023-03-09,Pediatría,Dr. Camilo Rojas,120.0,Completada
+6d426d43-0905-4a98-be86-cc29a18670a4,4809,2024-08-26,Ginecología,Dra. Lina Torres,200.0,Completada
+5f30606e-8f57-48b8-b592-98693cf8d01d,4811,2023-04-11,,Dra. Lina Torres,120.0,Completada
+1d76c158-3e77-4bfa-83f9-e1fc7b41e200,4813,2023-06-24,Ginecología,Dra. Lina Torres,,
+136205d6-162e-4fa1-83a8-c138145c3e9e,4819,2024-05-11,Pediatría,,200.0,
+37ba83f7-56ac-4148-843d-8aa94aaed84e,4820,2022-10-15,Pediatría,Dr. Juan Valdez,200.0,
+c4c805f1-7948-479e-aac8-fdf8fd75d795,4820,2023-01-22,,Dr. Andrés Murcia,120.0,Completada
+441bb6bd-64f1-4971-a596-c9ece945df1a,4821,2024-11-28,Ginecología,Dra. Lina Torres,220.0,
+0e9ebb7d-4b65-4c70-9cf9-6cb8e786f729,4828,2025-07-08,Ginecología,Dr. Juan Valdez,120.0,
+6f76f3a1-9477-46a2-9b61-b972ae227d0b,4839,2025-03-01,Cardiología,Dr. Camilo Rojas,120.0,Cancelada
+52e398e8-ff8b-418f-bebc-99959360fd06,4841,2024-07-25,Ortopedia,Dr. Juan Valdez,,Reprogramada
+73e5f99d-174d-46b6-922c-4bdb36b9adcc,4843,2022-08-05,,,120.0,Completada
+ef2d2c64-7adb-4f76-b8f3-0a9718be73bf,4845,2024-04-25,,Dr. Andrés Murcia,200.0,Cancelada
+509578f4-8c0d-4d34-8bb7-2abcb64d11a7,4847,2025-11-17,Ortopedia,Dr. Camilo Rojas,180.0,
+26b78f75-092b-408a-b8a1-66b514168af2,4847,2023-12-15,Pediatría,Dr. Juan Valdez,200.0,Completada
+99c60d81-142d-4929-bd4b-dfa461653667,4852,2024-09-03,Ginecología,Dr. Camilo Rojas,200.0,
+cd58626d-ff31-403a-9c3e-0dd867357cad,4853,2024-11-28,Cardiología,Dr. Andrés Murcia,180.0,Reprogramada
+2a43bae9-c5b3-4fed-9fa1-4cab2367c587,4853,2022-09-19,Cardiología,Dra. Lina Torres,220.0,
+085ca38e-f046-473a-8a04-19032fe9c6f3,4856,2025-09-01,Ginecología,Dr. Juan Valdez,180.0,Cancelada
+7d26fc61-d1d2-4143-868e-a58a8ff4f313,4872,2024-07-27,Ginecología,Dra. Lina Torres,220.0,Cancelada
+69eb4229-3324-4bfd-ae4a-b4936df36040,4881,2022-03-03,Cardiología,Dr. Andrés Murcia,120.0,
+6ed47f24-6a69-4316-a28e-fa293f733ea2,4888,2022-11-20,Cardiología,Dr. Camilo Rojas,200.0,Cancelada
+888acb29-6297-463c-9535-3076e5d9ec8e,4889,2022-05-25,Neurología,Dr. Camilo Rojas,180.0,
+8df86b0b-0f7c-4db6-a058-3abd14971eec,4889,2024-12-07,Pediatría,,,Reprogramada
+d9de6a62-00cc-4f63-8113-ad997c5c6e92,4890,2022-05-17,,,100.0,
+026a59c0-9334-4ddf-b483-b70fa7498359,4896,2024-01-06,Ginecología,Dr. Andrés Murcia,100.0,Cancelada
+204b5f57-5b90-40cd-984d-ee9d97fb9d35,4901,2025-11-19,Cardiología,Dra. Lina Torres,180.0,
+245ccba6-384c-4a9b-91cf-d94119508d57,4903,2024-03-26,Neurología,,100.0,Completada
+319a336d-eb7b-4012-82d6-b5872b4952f7,4903,2022-03-19,Ginecología,Dr. Andrés Murcia,,Reprogramada
+91f7bdba-2891-4a2e-a389-1c9ad46992c6,4908,2025-10-04,Ginecología,Dr. Andrés Murcia,200.0,
+2cb38c43-0113-4f37-8f24-2e8645fed394,4912,2024-08-07,Pediatría,Dra. Lina Torres,,Reprogramada
+23a4bc97-10ca-4445-a89c-e90414d1072e,4914,2025-09-05,Cardiología,Dr. Juan Valdez,180.0,Completada
+d9f5adf9-bd31-41d5-b5c4-d12bc2cddfa0,4918,2025-12-31,Pediatría,Dr. Andrés Murcia,100.0,Cancelada
+51d571fa-0f13-42c3-85dc-da97ba1d2bc1,4919,2025-10-30,Ortopedia,Dra. Lina Torres,100.0,Reprogramada
+86727069-6cb9-4a6e-8233-86601cc26645,4920,2023-07-20,Cardiología,Dra. Lina Torres,200.0,Cancelada
+1d6fb8ea-ae15-44bb-a481-571dc120a5f7,4922,2023-10-06,Neurología,Dra. Lina Torres,,Cancelada
+8f47a012-077f-4288-b937-b640969cac84,4925,2022-09-10,Pediatría,Dr. Camilo Rojas,180.0,Reprogramada
+2e5693a9-071e-4e9b-8449-5118fd62b19b,4926,2025-09-15,Pediatría,,,Cancelada
+ee990d39-ad85-415a-966d-9e46456fea1c,4936,2023-09-02,Ginecología,Dr. Camilo Rojas,200.0,Cancelada
+1da593fe-483b-4134-ae18-88138384ca98,4936,2025-10-04,Cardiología,,,Cancelada
+e27d8b81-3b96-4917-bbfe-2f6d51582ca6,4937,2025-07-29,Cardiología,Dr. Juan Valdez,120.0,Cancelada
+e6a4e57f-3661-4c5b-8d16-58513f840c3e,4938,2025-08-23,Pediatría,Dr. Camilo Rojas,200.0,Reprogramada
+442faa51-56e0-4e4d-b604-55e937034956,4944,2024-01-02,Pediatría,Dr. Juan Valdez,200.0,Cancelada
+e54e8932-6484-4749-b258-f6cb16a0c936,4944,2023-04-13,Ginecología,,220.0,Completada
+54023e96-6bc4-4d7f-a833-2d63f3ca4d51,4950,2024-08-13,Ortopedia,Dr. Camilo Rojas,200.0,Completada
+947c814d-b002-4743-8319-9effbb6dcfec,4950,2023-07-22,Neurología,Dra. Lina Torres,220.0,Reprogramada
+23d7cae7-c35e-4204-bfa2-9dcc57cd4950,4951,2023-02-26,Ortopedia,Dr. Andrés Murcia,100.0,Cancelada
+a828705f-5003-46e0-82f0-ccc9486d47b0,4952,2025-07-22,Ginecología,Dr. Juan Valdez,100.0,
+5122d0df-a68b-40b9-916d-520f3e9debed,4952,2022-08-25,Ginecología,Dra. Lina Torres,100.0,
+7adb0d04-bd76-4e7b-9244-0f5f37b698f8,4956,2025-09-13,Cardiología,Dr. Camilo Rojas,220.0,Cancelada
+0cd0c208-6057-475b-b76d-dd6c4a5fadcb,4957,2024-07-08,Neurología,,200.0,
+5b768ddc-34a3-4f19-b52a-af21bce8f099,4962,2025-01-24,Cardiología,Dra. Lina Torres,100.0,Completada
+b9dfc0eb-2c5d-4be0-82e7-e158d5401b63,4963,2024-08-14,Neurología,Dr. Juan Valdez,180.0,
+3fb49d01-c553-4376-8f00-7135a7d0ad29,4967,2023-02-04,Cardiología,Dr. Camilo Rojas,180.0,Completada
+0ec473e3-ba7b-4dbc-8161-05bd75db84c0,4971,2022-05-20,Pediatría,Dr. Juan Valdez,,Cancelada
+831c66bf-6f9a-421c-a018-82d00768b242,4971,2022-06-28,Pediatría,Dr. Camilo Rojas,220.0,Completada
+ff8d24fc-429d-4acc-946f-9522f6264808,4990,2022-03-24,Neurología,,200.0,Completada
+28ab0345-54dc-4da8-a96e-00c2a1419ea1,4997,2022-05-18,,Dr. Andrés Murcia,120.0,Reprogramada
+27cf7b83-0794-4f7c-a4c8-647d9ed8aafa,4997,2024-03-15,Ginecología,,120.0,Cancelada
+79fc4095-8ea5-4897-a94e-2b7699ca80ee,4998,2025-06-05,Ortopedia,Dr. Juan Valdez,220.0,Cancelada
+b81349b7-77d2-42d3-bdeb-fc2bc34833b9,5000,2022-09-22,Ginecología,Dr. Andrés Murcia,100.0,Completada
