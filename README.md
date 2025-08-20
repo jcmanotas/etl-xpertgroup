@@ -45,3 +45,36 @@ Funciones auxiliares para:
 
 ### 📂 output/
 - salida de la data en formato parquet y csv
+
+## 📊 Resumen de hallazgos de calidad de datos
+
+### 🧑‍⚕️ Tabla: `pacientes`
+- **`fechas_invalidas`: 4**  
+  → Se encontraron 4 registros con **fechas de nacimiento no válidas** o imposibles de parsear.  
+- **`edad_inconsistente`: 1,615**  
+  → En 1,615 pacientes la **edad no coincide** con la calculada a partir de la fecha de nacimiento.  
+- **`emails_invalidos`: 0**  
+  → No se detectaron correos electrónicos inválidos.  
+- **`sexo_fuera_catalogo`: 0**  
+  → Todos los valores de la columna `sexo` están dentro del catálogo esperado (M, F, O, ND).  
+- **`id_paciente_duplicado`: 10**  
+  → Existen 10 registros con **ID de paciente duplicado**, lo que compromete la unicidad de la clave primaria.  
+
+### 📅 Tabla: `citas_medicas`
+- **`fechas_invalidas`: 6,592**  
+  → Hay 6,592 registros con **fechas de cita no válidas** (errores de formato o imposibles de interpretar).  
+- **`citas_sin_paciente`: 190**  
+  → Se encontraron 190 citas que hacen referencia a un **`id_paciente` inexistente** en la tabla `pacientes` (violación de integridad referencial).  
+- **`id_cita_duplicado`: 0**  
+  → No se detectaron duplicados en los identificadores de cita (`id_cita`).  
+
+---
+
+## ✅ Conclusión
+- La **tabla de pacientes** presenta principalmente problemas en la consistencia de la edad y algunos duplicados en la clave primaria.  
+- La **tabla de citas médicas** tiene un número muy alto de fechas inválidas y algunas referencias a pacientes inexistentes.  
+- Estos hallazgos sugieren la necesidad de:  
+  1. **Normalizar y validar fechas** en ambas tablas.  
+  2. **Depurar duplicados** en `pacientes`.  
+  3. Implementar **controles de integridad referencial** entre citas y pacientes.  
+  
